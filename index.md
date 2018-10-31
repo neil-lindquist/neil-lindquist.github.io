@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Neil Lindquist
 use-site-title: true
 ---
 
