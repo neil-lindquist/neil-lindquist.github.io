@@ -11,6 +11,10 @@ Working towards a BA in Math and Computer Science - Saint John's University - Ex
 
 * Thesis: Reducing Memory Access Latencies using Data Compression in Sparse, Iterative Linear Solvers
 
+# Honors and Awards
+
+Eagle Scout (awarded June 2014)
+
 # Works in Progress
 
 JuliaPetra: An Implementation of the Petra Object Model in Julia
