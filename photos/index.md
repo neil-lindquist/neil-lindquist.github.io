@@ -1,4 +1,4 @@
---
+---
 layout: page
 title: Photos
 images:
@@ -20,7 +20,7 @@ images:
   - image_path: Crew-2018-Northstar-boatpic.jpeg
     title: Northstar 2018
     desc: Northstar 2018 (right)
---
+---
 
 
 {% for image in page.images %}
