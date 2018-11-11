@@ -19,6 +19,8 @@ Eagle Scout (awarded June 2014)
 
 JuliaPetra: An Implementation of the Petra Object Model in Julia
 
+* Coauthored with [Dr. Mike Heroux](https://maherou.github.io/)
+
 Obtaining Performance from a Julia-Implementation of Trilinos Data Librairies (Presentation) *Progress and Challenges in Extreme Scale Computing and Data* Minisymposium at the 2019 SIAM Conference on Computational Science and Engineering
 
 # Research Experience
