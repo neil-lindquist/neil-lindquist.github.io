@@ -27,4 +27,4 @@ Obtaining Performance from a Julia-Implementation of Trilinos Data Librairies (P
 
 # Research Experience
 
-Research Assisant - Collegeville Group at Saint John's University under Dr. Mike Heroux (May 2017 through the present)
+Research Assisant - [Collegeville Group](http://github.com/Collegeville) at Saint John's University under Dr. Mike Heroux (May 2017 through the present)
