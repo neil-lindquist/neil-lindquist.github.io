@@ -11,7 +11,7 @@ html-title: CV - Neil Lindquist
 
 Working towards a BA in Math and Computer Science - Saint John's University - Expected Graduate May 2019
 
-* Thesis: Reducing Memory Access Latencies using Data Compression in Sparse, Iterative Linear Solvers
+* Thesis (in progress): Reducing Memory Access Latencies using Data Compression in Sparse, Iterative Linear Solvers
 
 # Honors and Awards
 
