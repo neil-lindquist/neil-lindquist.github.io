@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Current Projects
-html-title: Current Projects - Neil Lindquist
 ---
 
 ## JuliaPetra

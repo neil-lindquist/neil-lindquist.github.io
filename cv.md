@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Curriculum Vitae
-html-title: CV - Neil Lindquist
 ---
 
 [nslindquist@csbsju.edu](mailto:nslindquist@csbsju.edu)

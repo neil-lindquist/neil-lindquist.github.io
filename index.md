@@ -1,6 +1,5 @@
 ---
 layout: page
-html-title: Neil Lindquist
 ---
 
 I am an undergraduate Math and Computer Science major at [Saint John's University](https://www.csbsju.edu/).
