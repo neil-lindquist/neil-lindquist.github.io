@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Current Projects
+meta-description: The current projects in progress of Neil Lindquist
 ---
 
 ## JuliaPetra

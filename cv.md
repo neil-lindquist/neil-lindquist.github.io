@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Curriculum Vitae
+meta-description: The Curriculum Vitae and resume of Neil Lindquist
 ---
 
 [nslindquist@csbsju.edu](mailto:nslindquist@csbsju.edu)
