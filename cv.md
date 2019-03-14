@@ -16,13 +16,16 @@ Working towards a BA in Math and Computer Science - Saint John's University - Ex
 
 Eagle Scout (awarded June 2014)
 
+# Presentations
+
+[Obtaining Performance from a Julia-Implementation of Trilinos Data Librairies](https://www.pathlms.com/siam/courses/10878/sections/14368/video_presentations/127457)
+ * 2019 SIAM Conference on Computational Science and Engineering
+
 # Works in Progress
 
 JuliaPetra: An Implementation of the Petra Object Model in Julia
 
 * Coauthoring with [Dr. Mike Heroux](https://maherou.github.io/)
-
-Obtaining Performance from a Julia-Implementation of Trilinos Data Librairies (Presentation) *Progress and Challenges in Extreme Scale Computing and Data* Minisymposium at the 2019 SIAM Conference on Computational Science and Engineering
 
 # Research Experience
 
