@@ -9,7 +9,7 @@ meta-description: The current projects in progress of Neil Lindquist
 An implementation of Trilinos's Petra Object Model in Julia.
 The project is trying to understand how well Julia works for distributed, high performance computing.
 
-* [JuliaPetra.jl](github.com/collegeville/JuliaPetra.jl) - The implementation, submitted for addition to the official package registry
+* [JuliaPetra.jl](github.com/collegeville/JuliaPetra.jl) - The implementation
 * [Obtaining Performance from a Julia-Implementation of Trilinos Data Librairies](https://www.pathlms.com/siam/courses/10878/sections/14368/video_presentations/127457) - presented at the 2019 SIAM Conference on Computational Science and Engineering
 * JuliaPetra: An Implementation of the Petra Object Model in Julia - writing with [Dr. Mike Heroux](https://maherou.github.io/)
 * [TypeStability.jl](github.com/collegeville/typestability.jl) - A Julia package to automate type stability checks
@@ -18,3 +18,12 @@ The project is trying to understand how well Julia works for distributed, high p
 ##### May 2017 - Present
 Determining whether the performance of sparse linear solvers can be improved by reducing memory access latencies using data compression.
 This project is being written up as my undergraduate thesis.
+
+
+## SLIMA
+##### April 2019 - Present
+An Atom package for interactive Common Lisp development, based on the Emacs plugin SLIME.
+This is a fork of [Steve Levine's Atom-Slime](https://github.com/sjlevine/atom-slime).
+
+* [Atom package page](https://atom.io/packages/slima) - The package page
+* [Swank-Client](https://www.npmjs.com/package/swank-client) - The NPM package that handles the actual swank remote calls.
