@@ -18,6 +18,9 @@ Eagle Scout (awarded June 2014)
 
 # Presentations
 
+[Reducing Memory Access Latencies using Data Compression in Sparse, Iterative Linear Solvers](/files/2019-04-12-PMEslides.pdf)
+ * 2019 CSB/SJU Pi Mu Epsilon Conference
+
 [Obtaining Performance from a Julia-Implementation of Trilinos Data Librairies](https://www.pathlms.com/siam/courses/10878/sections/14368/video_presentations/127457)
  * 2019 SIAM Conference on Computational Science and Engineering
 

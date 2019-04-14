@@ -18,6 +18,7 @@ The project is trying to understand how well Julia works for distributed, high p
 ##### May 2017 - Present
 Determining whether the performance of sparse linear solvers can be improved by reducing memory access latencies using data compression.
 This project is being written up as my undergraduate thesis.
+* [Presented](/files/2019-04-12-PMEslides.pdf) at the 2019 CSB/SJU Pi Mu Epsilon Conference
 
 
 ## SLIMA
