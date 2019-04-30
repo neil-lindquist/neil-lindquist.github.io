@@ -14,12 +14,6 @@ The project is trying to understand how well Julia works for distributed, high p
 * JuliaPetra: An Implementation of the Petra Object Model in Julia - writing with [Dr. Mike Heroux](https://maherou.github.io/)
 * [TypeStability.jl](github.com/collegeville/typestability.jl) - A Julia package to automate type stability checks
 
-## Reducing Memory Access Latencies using Data Compression in Sparse, Iterative Linear Solvers
-##### May 2017 - Present
-Determining whether the performance of sparse linear solvers can be improved by reducing memory access latencies using data compression.
-This project is being written up as my undergraduate thesis.
-* [Presented](/files/2019-04-12-PMEslides.pdf) at the 2019 CSB/SJU Pi Mu Epsilon Conference
-
 
 ## SLIMA
 ##### April 2019 - Present
@@ -28,3 +22,12 @@ This is a fork of [Steve Levine's Atom-Slime](https://github.com/sjlevine/atom-s
 
 * [Atom package page](https://atom.io/packages/slima) - The package page
 * [Swank-Client](https://www.npmjs.com/package/swank-client) - The NPM package that handles the actual swank remote calls.
+
+
+# Past Projects
+
+## Reducing Memory Access Latencies using Data Compression in Sparse, Iterative Linear Solvers
+##### May 2017 - April 2019
+Determining whether the performance of sparse linear solvers can be improved by reducing memory access latencies using data compression.
+* [Undergraduate Thesis](https://github.com/neil-lindquist/Undergrad-Thesis/blob/master/thesis.pdf)
+* [Presented](/files/2019-04-12-PMEslides.pdf) at the 2019 CSB/SJU Pi Mu Epsilon Conference
