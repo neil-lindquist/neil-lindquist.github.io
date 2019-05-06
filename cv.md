@@ -8,11 +8,15 @@ meta-description: The Curriculum Vitae and resume of Neil Lindquist
 
 # Education
 
-Working towards a BA in Math and Computer Science - Saint John's University - Expected Graduate May 2019
+Working towards a B.A. *magna cum laude* in Math and Computer Science - Saint John's University - Expected Graduate May 2019
 
 * Thesis: [Reducing Memory Access Latencies using Data Compression in Sparse, Iterative Linear Solvers](https://github.com/neil-lindquist/Undergrad-Thesis/blob/master/thesis.pdf)
 
 # Honors and Awards
+
+Pi Mu Epsilon Mathematics Honor Society (inducted May 2019)
+
+Phi Beta Kappa Honors Society (inducted April 2019)
 
 Eagle Scout (awarded June 2014)
 
