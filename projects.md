@@ -4,16 +4,6 @@ title: Current Projects
 meta-description: The current projects in progress of Neil Lindquist
 ---
 
-## JuliaPetra
-##### July 2017 - Present
-An implementation of Trilinos's Petra Object Model in Julia.
-The project is trying to understand how well Julia works for distributed, high performance computing.
-
-* [JuliaPetra.jl](github.com/collegeville/JuliaPetra.jl) - The implementation
-* [Obtaining Performance from a Julia-Implementation of Trilinos Data Librairies](https://www.pathlms.com/siam/courses/10878/sections/14368/video_presentations/127457) - presented at the 2019 SIAM Conference on Computational Science and Engineering
-* JuliaPetra: An Implementation of the Petra Object Model in Julia - writing with [Dr. Mike Heroux](https://maherou.github.io/)
-* [TypeStability.jl](github.com/collegeville/typestability.jl) - A Julia package to automate type stability checks
-
 
 ## SLIMA
 ##### April 2019 - Present
@@ -31,3 +21,14 @@ This is a fork of [Steve Levine's Atom-Slime](https://github.com/sjlevine/atom-s
 Determining whether the performance of sparse linear solvers can be improved by reducing memory access latencies using data compression.
 * [Undergraduate Thesis](https://github.com/neil-lindquist/Undergrad-Thesis/blob/master/thesis.pdf)
 * [Presented](/files/2019-04-12-PMEslides.pdf) at the 2019 CSB/SJU Pi Mu Epsilon Conference
+
+## JuliaPetra
+##### July 2017 - May 2019
+An implementation of Trilinos's Petra Object Model in Julia.
+The project is trying to understand how well Julia works for distributed, high performance computing.
+
+* [JuliaPetra.jl](github.com/collegeville/JuliaPetra.jl) - The implementation
+* [Obtaining Performance from a Julia-Implementation of Trilinos Data Librairies](https://www.pathlms.com/siam/courses/10878/sections/14368/video_presentations/127457) - presented at the 2019 SIAM Conference on Computational Science and Engineering
+* (In progress) JuliaPetra: An Implementation of the Petra Object Model in Julia
+  * Coauthoring with [Dr. Mike Heroux](https://maherou.github.io/) and [Katherine Mendel](https://github.com/katmendy)
+* [TypeStability.jl](github.com/collegeville/typestability.jl) - A Julia package to automate type stability checks

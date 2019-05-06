@@ -28,8 +28,8 @@ Eagle Scout (awarded June 2014)
 
 JuliaPetra: An Implementation of the Petra Object Model in Julia
 
-* Coauthoring with [Dr. Mike Heroux](https://maherou.github.io/)
+* Coauthoring with [Dr. Mike Heroux](https://maherou.github.io/) and [Katherine Mendel](https://github.com/katmendy)
 
 # Research Experience
 
-Research Assisant - [Collegeville Group](http://github.com/Collegeville) at Saint John's University under Dr. Mike Heroux (May 2017 through the present)
+Research Assisant - [Collegeville Group](http://github.com/Collegeville) at Saint John's University under Dr. Mike Heroux (May 2017 through May 2019)
