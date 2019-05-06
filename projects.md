@@ -27,8 +27,8 @@ Determining whether the performance of sparse linear solvers can be improved by 
 An implementation of Trilinos's Petra Object Model in Julia.
 The project is trying to understand how well Julia works for distributed, high performance computing.
 
-* [JuliaPetra.jl](github.com/collegeville/JuliaPetra.jl) - The implementation
+* [JuliaPetra.jl](https://github.com/collegeville/JuliaPetra.jl) - The implementation
 * [Obtaining Performance from a Julia-Implementation of Trilinos Data Librairies](https://www.pathlms.com/siam/courses/10878/sections/14368/video_presentations/127457) - presented at the 2019 SIAM Conference on Computational Science and Engineering
 * (In progress) JuliaPetra: An Implementation of the Petra Object Model in Julia
   * Coauthoring with [Dr. Mike Heroux](https://maherou.github.io/) and [Katherine Mendel](https://github.com/katmendy)
-* [TypeStability.jl](github.com/collegeville/typestability.jl) - A Julia package to automate type stability checks
+* [TypeStability.jl](https://github.com/collegeville/typestability.jl) - A Julia package to automate type stability checks
