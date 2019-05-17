@@ -6,7 +6,7 @@ meta-description: The Curriculum Vitae of Neil Lindquist
 
 <h2 class="visible-print-block">
   Neil Lindquist
-</p>
+</h2>
 
 <p class="visible-print-block">
   NeilLindquist5@gmail.com
