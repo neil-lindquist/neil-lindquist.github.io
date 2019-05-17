@@ -4,6 +4,14 @@ title: Curriculum Vitae
 meta-description: The Curriculum Vitae of Neil Lindquist
 ---
 
+<h2 class="visible-print-block">
+  Neil Lindquist
+</p>
+
+<p class="visible-print-block">
+  NeilLindquist5@gmail.com
+</p>
+
 # Education
 
 B.A. *magna cum laude* in Math and Computer Science, Saint John's University, 2019
