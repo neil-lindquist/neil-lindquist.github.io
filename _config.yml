@@ -70,13 +70,15 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-#  rss: true
   email: "neillindquist5@gmail.com"
-#  facebook: daattali
+  public-key: "/neil-lindquist-public-key.pgp"
   github: neil-lindquist
+  linkedin: neil-lindquist
+  orcid: 0000-0001-9404-3121
+#  rss: true
+#  facebook: daattali
 #  twitter: daattali
 #  reddit: yourname
-  linkedin: neil-lindquist
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
