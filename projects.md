@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Current Projects
+title: Projects
 meta-description: The current projects in progress of Neil Lindquist
 ---
 
+# Current Projects
 
-## SLIMA
+### SLIMA
 ##### April 2019 - Present
 An Atom package for interactive Common Lisp development, based on the Emacs plugin SLIME.
 This is a fork of [Steve Levine's Atom-Slime](https://github.com/sjlevine/atom-slime).
@@ -13,16 +14,15 @@ This is a fork of [Steve Levine's Atom-Slime](https://github.com/sjlevine/atom-s
 * [Atom package page](https://atom.io/packages/slima) - The package page
 * [Swank-Client](https://www.npmjs.com/package/swank-client) - The NPM package that handles the actual swank remote calls.
 
-
 # Past Projects
 
-## Reducing Memory Access Latencies using Data Compression in Sparse, Iterative Linear Solvers
+### Reducing Memory Access Latencies using Data Compression in Sparse, Iterative Linear Solvers
 ##### May 2017 - April 2019
 Determining whether the performance of sparse linear solvers can be improved by reducing memory access latencies using data compression.
 * [Undergraduate Thesis](https://github.com/neil-lindquist/Undergrad-Thesis/blob/master/thesis.pdf)
 * [Presented](/files/2019-04-12-PMEslides.pdf) at the 2019 CSB/SJU Pi Mu Epsilon Conference
 
-## JuliaPetra
+### JuliaPetra
 ##### July 2017 - May 2019
 An implementation of Trilinos's Petra Object Model in Julia.
 The project is trying to understand how well Julia works for distributed, high performance computing.
