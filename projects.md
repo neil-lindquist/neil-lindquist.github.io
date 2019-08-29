@@ -6,6 +6,12 @@ meta-description: The current projects in progress of Neil Lindquist
 
 # Current Projects
 
+### CI-Utils
+##### July 2019 - Present
+An effort to provide tools for Continuous Integration on Common Lisp codebases.
+
+* [Project website](https://neil-lindquist.github.io/CI-Utils/)
+
 ### SLIMA
 ##### April 2019 - Present
 An Atom package for interactive Common Lisp development, based on the Emacs plugin SLIME.
