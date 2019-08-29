@@ -26,6 +26,11 @@ Phi Beta Kappa Honors Society (inducted April 2019)
 
 Eagle Scout (awarded June 2014)
 
+# Submitted for Publication
+
+Replicated Computational Results (RCR) Report for “Code Generation for Generally Mapped Finite Elements”
+* A replication of the computational results in the named paper by Robert C. Kirby, Lawrence Mitchell
+
 # Presentations
 
 [Reducing Memory Access Latencies using Data Compression in Sparse, Iterative Linear Solvers](/files/2019-04-12-PMEslides.pdf)
