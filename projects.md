@@ -6,11 +6,11 @@ meta-description: The current projects in progress of Neil Lindquist
 
 # Current Projects
 
-### CI-Utils
-##### July 2019 - Present
-An effort to provide tools for Continuous Integration on Common Lisp codebases.
 
-* [Project website](https://neil-lindquist.github.io/CI-Utils/)
+### Mixed precision GMRES
+##### August 2019 - Present
+Understanding how using different precisions for different values affects the performance and convergence of GMRES.
+
 
 ### SLIMA
 ##### April 2019 - Present
@@ -24,7 +24,7 @@ This is a fork of [Steve Levine's Atom-Slime](https://github.com/sjlevine/atom-s
 
 ### Reducing Memory Access Latencies using Data Compression in Sparse, Iterative Linear Solvers
 ##### May 2017 - April 2019
-Determining whether the performance of sparse linear solvers can be improved by reducing memory access latencies using data compression.
+Determining whether the performance of sparse linear solvers (specifically Conjugate Gradient) can be improved by reducing memory access latencies using data compression.
 * [Undergraduate Thesis](https://github.com/neil-lindquist/Undergrad-Thesis/blob/master/thesis.pdf)
 * [Presented](/files/2019-04-12-PMEslides.pdf) at the 2019 CSB/SJU Pi Mu Epsilon Conference
 

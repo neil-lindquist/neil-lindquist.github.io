@@ -26,10 +26,11 @@ Phi Beta Kappa Honors Society (inducted April 2019)
 
 Eagle Scout (awarded June 2014)
 
-# Submitted for Publication
+# Accepted for Publication
 
 Replicated Computational Results (RCR) Report for “Code Generation for Generally Mapped Finite Elements”
-* A replication of the computational results in the named paper by Robert C. Kirby, Lawrence Mitchell
+* In ACM Transactions on Mathematical Software
+* A replication of the computational results in the named paper by Robert C. Kirby and Lawrence Mitchell
 
 # Presentations
 
@@ -47,8 +48,8 @@ JuliaPetra: An Implementation of the Petra Object Model in Julia
 
 # Research Experience
 
-Research Assistant - [Global Computing Laboratory](https://globalcomputing.group/) at the University of Tennesee under Dr. Michela Taufer (August 2019 through the present)
+Graduate Research Assistant - [Global Computing Laboratory](https://globalcomputing.group/) at the University of Tennesee under Dr. Michela Taufer (August 2019 through the present)
 
-Research Assistant - [Innovative Computing Laboratory](https://icl.utk.edu/) at the University of Tennesee under Dr. Jack Dongarra (July 2019 through the present)
+Graduate Research Assistant - [Innovative Computing Laboratory](https://icl.utk.edu/) at the University of Tennesee under Dr. Jack Dongarra (July 2019 through the present)
 
 Research Assistant - [Collegeville Group](http://github.com/Collegeville) at Saint John's University under Dr. Mike Heroux (May 2017 through May 2019)

@@ -3,3 +3,4 @@ https://neil-lindquist.github.io/cv/
 https://neil-lindquist.github.io/projects/
 
 https://neil-lindquist.github.io/linear-programming/
+https://neil-lindquist.github.io/CI-Utils/
