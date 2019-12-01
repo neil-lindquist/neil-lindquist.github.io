@@ -9,7 +9,8 @@ meta-description: The current projects in progress of Neil Lindquist
 
 ### Mixed precision GMRES
 ##### August 2019 - Present
-Understanding how using different precisions for different values affects the performance and convergence of GMRES.
+Exploring how the use of different precisions for different parts of the solver affects the performance and convergence of GMRES.
+The current goal is to be able to achieve the performance of a double precision GMRES implementation while selectively using lower precision in order to reduce data movement costs.
 
 
 ### SLIMA
@@ -22,9 +23,9 @@ This is a fork of [Steve Levine's Atom-Slime](https://github.com/sjlevine/atom-s
 
 # Past Projects
 
-### Reducing Memory Access Latencies using Data Compression in Sparse, Iterative Linear Solvers
+### Reducing Memory Access Costs using Data Compression in Conjugate Gradient
 ##### May 2017 - April 2019
-Determining whether the performance of sparse linear solvers (specifically Conjugate Gradient) can be improved by reducing memory access latencies using data compression.
+Determining whether the performance of sparse linear solvers (specifically Conjugate Gradient) can be improved by reducing data movement using compression.
 * [Undergraduate Thesis](https://github.com/neil-lindquist/Undergrad-Thesis/blob/master/thesis.pdf)
 * [Presented](/files/2019-04-12-PMEslides.pdf) at the 2019 CSB/SJU Pi Mu Epsilon Conference
 
