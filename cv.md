@@ -14,8 +14,12 @@ meta-description: The Curriculum Vitae of Neil Lindquist
 
 # Education
 
+Ph.D. student, University of Tennesee,
+* Advised by Drs. Jack Dongarra and Michela Taufer
+
 B.A. *magna cum laude* in Math and Computer Science, Saint John's University, 2019
 
+* Advised by Dr. Mike Heroux
 * Thesis: [Reducing Memory Access Latencies using Data Compression in Sparse, Iterative Linear Solvers](https://github.com/neil-lindquist/Undergrad-Thesis/blob/master/thesis.pdf)
 
 # Honors and Awards
