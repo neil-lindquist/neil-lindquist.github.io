@@ -26,11 +26,12 @@ Phi Beta Kappa Honors Society (inducted April 2019)
 
 Eagle Scout (awarded June 2014)
 
-# Accepted for Publication
+# Publications
 
-Replicated Computational Results (RCR) Report for “Code Generation for Generally Mapped Finite Elements”
-* In ACM Transactions on Mathematical Software
+N. Lindquist, “Replicated Computational Results (RCR) Report for ‘Code Generation for Generally Mapped Finite Elements,’” ACM Trans. Math. Softw., vol. 45, no. 4, pp. 42:1–42:7, Dec. 2019.
 * A replication of the computational results in the named paper by Robert C. Kirby and Lawrence Mitchell
+* [Download](https://dl.acm.org/authorize?N690907)
+
 
 # Presentations
 
