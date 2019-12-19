@@ -45,11 +45,6 @@ N. Lindquist, “Replicated Computational Results (RCR) Report for ‘Code Gener
 [Obtaining Performance from a Julia-Implementation of Trilinos Data Librairies](https://www.pathlms.com/siam/courses/10878/sections/14368/video_presentations/127457)
  * 2019 SIAM Conference on Computational Science and Engineering
 
-# Works in Progress
-
-JuliaPetra: An Implementation of the Petra Object Model in Julia
-
-* Coauthoring with [Dr. Mike Heroux](https://maherou.github.io/) and [Katherine Mendel](https://github.com/katmendy)
 
 # Research Experience
 
