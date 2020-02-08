@@ -24,6 +24,8 @@ B.A. *magna cum laude* in Math and Computer Science, Saint John's University, 20
 
 # Honors and Awards
 
+Top 500 Fellowship, University of Tennessee (August 2019 - Present)
+
 Pi Mu Epsilon Mathematics Honor Society (inducted May 2019)
 
 Phi Beta Kappa Honors Society (inducted April 2019)
@@ -49,7 +51,11 @@ N. Lindquist, “Replicated Computational Results (RCR) Report for ‘Code Gener
 # Research Experience
 
 Graduate Research Assistant - [Global Computing Laboratory](https://globalcomputing.group/) at the University of Tennesee under Dr. Michela Taufer (August 2019 through the present)
+* Developing a machine learning based workflow for classification of protein structural properties from XFEL diffraction patterns.
 
 Graduate Research Assistant - [Innovative Computing Laboratory](https://icl.utk.edu/) at the University of Tennesee under Dr. Jack Dongarra (July 2019 through the present)
+* Experimenting with use of a mix of double and single floating point precision in GMRES, a sparse, iterative linear solver.
 
 Research Assistant - [Collegeville Group](http://github.com/Collegeville) at Saint John's University under Dr. Mike Heroux (May 2017 through May 2019)
+* Explored the use of data compression to improve the performance of Conjugate Gradient, a sparse, iterative linear solver.
+* Tested the effect on performance of using Julia, a high level programming language, to implement distributed, sparse linear algebra codes.
