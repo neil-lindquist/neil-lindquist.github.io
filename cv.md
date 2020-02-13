@@ -41,6 +41,9 @@ N. Lindquist, “Replicated Computational Results (RCR) Report for ‘Code Gener
 
 # Presentations
 
+[Improve the Performance of GMRES using Mixed Precision](/files/2020-02-13-SIAM_PP20-slides.pdf)
+* 2020 SIAM Conference of Parallel Processing for Scientific Computing
+
 [Reducing Memory Access Latencies using Data Compression in Sparse, Iterative Linear Solvers](/files/2019-04-12-PMEslides.pdf)
  * 2019 CSB/SJU Pi Mu Epsilon Conference
 
