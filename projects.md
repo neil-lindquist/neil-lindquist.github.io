@@ -6,10 +6,6 @@ meta-description: The current projects in progress of Neil Lindquist
 
 # Current Projects
 
-### Classification of protein properties from XFEL diffraction patterns
-##### October 2019 - Present
-Developing a machine learning workflow to classify structural properties of proteins from X-ray Free Electron Laser diffraction patterns.
-
 ### Mixed precision GMRES
 ##### August 2019 - Present
 Exploring how the use of different precisions for different parts of the solver affects the performance and convergence of GMRES.
