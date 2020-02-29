@@ -11,7 +11,7 @@ meta-description: The current projects in progress of Neil Lindquist
 Exploring how the use of different precisions for different parts of the solver affects the performance and convergence of GMRES.
 The current goal is to be able to achieve the performance of a double precision GMRES implementation while selectively using lower precision in order to reduce data movement costs.
 
-* Improving the Performance of GMRES using Mixed Precision - will present at the 2020 SIAM Conference on Parallel Processing for Scientific Computing
+* [Improving the Performance of GMRES using Mixed Precision](/files/2020-02-13-SIAM_PP20-slides.pdf) - presented at the 2020 SIAM Conference on Parallel Processing for Scientific Computing
 
 ### SLIMA
 ##### April 2019 - Present
