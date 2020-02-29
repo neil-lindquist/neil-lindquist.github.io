@@ -57,7 +57,7 @@ Graduate Research Assistant - [Innovative Computing Laboratory](https://icl.utk.
 * Experimenting with use of a mix of double and single floating point precision in GMRES, a sparse, iterative linear solver.
 
 Graduate Research Assistant - [Global Computing Laboratory](https://globalcomputing.group/) at the University of Tennesee under Dr. Michela Taufer (August 2019 through February 2020)
-* Developing a machine learning based workflow for classification of protein structural properties from XFEL diffraction patterns.
+* Developed a machine learning based workflow for classification of protein structural properties from XFEL diffraction patterns.
 
 Research Assistant - [Collegeville Group](http://github.com/Collegeville) at Saint John's University under Dr. Mike Heroux (May 2017 through May 2019)
 * Explored the use of data compression to improve the performance of Conjugate Gradient, a sparse, iterative linear solver.
