@@ -34,6 +34,9 @@ Eagle Scout (awarded June 2014)
 
 # Publications
 
+[Accepted] N. Lindquist, P. Luszczek, and J. Dongarra, “Improving the Performance of the GMRES method using Mixed-Precision Techniques,” presented at the Smokey Mountains Conference, 2020.
+* Tested the use of a mix of single and double precisions to improve the performance of GMRES while retaining double precision accuracy.
+
 N. Lindquist, “Replicated Computational Results (RCR) Report for ‘Code Generation for Generally Mapped Finite Elements,’” ACM Trans. Math. Softw., vol. 45, no. 4, pp. 42:1–42:7, Dec. 2019.
 * A replication of the computational results in the named paper by Robert C. Kirby and Lawrence Mitchell
 * [Download](https://dl.acm.org/authorize?N690907)
