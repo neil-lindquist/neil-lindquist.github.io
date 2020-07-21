@@ -34,10 +34,10 @@ Eagle Scout (awarded June 2014)
 
 # Publications
 
-[Accepted] N. Lindquist, P. Luszczek, and J. Dongarra, “Improving the Performance of the GMRES method using Mixed-Precision Techniques,” presented at the Smokey Mountains Conference, 2020.
+[Accepted] **N. Lindquist**, P. Luszczek, and J. Dongarra, “Improving the Performance of the GMRES method using Mixed-Precision Techniques,” presented at the Smokey Mountains Conference, 2020.
 * Tested the use of a mix of single and double precisions to improve the performance of GMRES while retaining double precision accuracy.
 
-N. Lindquist, “Replicated Computational Results (RCR) Report for ‘Code Generation for Generally Mapped Finite Elements,’” ACM Trans. Math. Softw., vol. 45, no. 4, pp. 42:1–42:7, Dec. 2019.
+**N. Lindquist**, “Replicated Computational Results (RCR) Report for ‘Code Generation for Generally Mapped Finite Elements,’” ACM Trans. Math. Softw., vol. 45, no. 4, pp. 42:1–42:7, Dec. 2019.
 * A replication of the computational results in the named paper by Robert C. Kirby and Lawrence Mitchell
 * [Download](https://dl.acm.org/authorize?N690907)
 
@@ -58,9 +58,10 @@ N. Lindquist, “Replicated Computational Results (RCR) Report for ‘Code Gener
 
 Graduate Research Assistant - [Innovative Computing Laboratory](https://icl.utk.edu/) at the University of Tennesee under Dr. Jack Dongarra (July 2019 through the present)
 * Experimenting with use of a mix of double and single floating point precision in GMRES, a sparse, iterative linear solver.
+* Experimenting with using Random Butterfly Transforms to replace pivoting in LU factorization for the SLATE distributed, dense linear algebra library.
 
 Graduate Research Assistant - [Global Computing Laboratory](https://globalcomputing.group/) at the University of Tennesee under Dr. Michela Taufer (August 2019 through February 2020)
-* Developed a machine learning based workflow for classification of protein structural properties from XFEL diffraction patterns.
+* Contributed to a machine learning based workflow for classification of protein structural properties from XFEL diffraction patterns.
 
 Research Assistant - [Collegeville Group](http://github.com/Collegeville) at Saint John's University under Dr. Mike Heroux (May 2017 through May 2019)
 * Explored the use of data compression to improve the performance of Conjugate Gradient, a sparse, iterative linear solver.
