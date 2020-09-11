@@ -37,9 +37,6 @@ Eagle Scout (awarded June 2014)
 [Accepted] **N. Lindquist**, P. Luszczek, and J. Dongarra, “Improving the Performance of the GMRES method using Mixed-Precision Techniques,” presented at the Smokey Mountains Conference, 2020.
 * Tested the use of a mix of single and double precisions to improve the performance of GMRES while retaining double precision accuracy.
 
-A. Abdelfattah, et al., "A Survey of Numerical Methods Utilizing Mixed Precision Arithmetic", 2020, arXiv:2007.06674
-* [arXiv](https://arxiv.org/abs/2007.06674)
-
 **N. Lindquist**, “Replicated Computational Results (RCR) Report for ‘Code Generation for Generally Mapped Finite Elements,’” ACM Trans. Math. Softw., vol. 45, no. 4, pp. 42:1–42:7, Dec. 2019.
 * A replication of the computational results in the named paper by Robert C. Kirby and Lawrence Mitchell
 * [Download](https://dl.acm.org/authorize?N690907)
@@ -56,6 +53,11 @@ A. Abdelfattah, et al., "A Survey of Numerical Methods Utilizing Mixed Precision
 [Obtaining Performance from a Julia-Implementation of Trilinos Data Librairies](https://www.pathlms.com/siam/courses/10878/sections/14368/video_presentations/127457)
  * 2019 SIAM Conference on Computational Science and Engineering
 
+
+# Tech Reports
+
+A. Abdelfattah, et al., "A Survey of Numerical Methods Utilizing Mixed Precision Arithmetic", 2020, arXiv:2007.06674
+* [arXiv](https://arxiv.org/abs/2007.06674)
 
 # Research Experience
 
