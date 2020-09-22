@@ -10,7 +10,7 @@ meta-description: The current projects in progress of Neil Lindquist
 ##### February 2020 - Present
 Experimenting with the use of Randomized Butterfly Transforms to replace pivoting in large scale, distributed gaussian elimination codes.
 Replacing pivoting with a simple precondition steps, reduces the amount of communication, particularly from key tight loops.
-The current work uses the [SLATE](icl.utk.edu/slate) dense linear algebra library.
+The current work uses the [SLATE](https://icl.utk.edu/slate) dense linear algebra library.
 
 ### Mixed precision GMRES
 ##### August 2019 - Present
