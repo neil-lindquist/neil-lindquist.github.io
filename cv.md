@@ -34,8 +34,11 @@ Eagle Scout (awarded June 2014)
 
 # Publications
 
-[Accepted] **N. Lindquist**, P. Luszczek, and J. Dongarra, “Improving the Performance of the GMRES method using Mixed-Precision Techniques,” presented at the Smokey Mountains Conference, 2020.
-* Tested the use of a mix of single and double precisions to improve the performance of GMRES while retaining double precision accuracy.
+[Accepted] **N. Lindquist**, P. Luszczek, and J. Dongarra, “Replacing Pivoting in Distributed Gaussian Elimination with Randomized Techniques,” presented at the 2020 IEEE/ACM 11th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (ScalA), Atlanta, GA, USA, Nov. 2020.
+* [Preprint](/files/2020-11-12-ScalA20-paper.pdf)
+
+[In press] **N. Lindquist**, P. Luszczek, and J. Dongarra, “Improving the Performance of the GMRES method using Mixed-Precision Techniques,” presented at the 17th Smoky Mountains Computational Sciences and Engineering Conference, SMC 2020, Oak Ridge, TN, USA, Aug. 2020.
+* [Preprint](https://www.icl.utk.edu/files/publications/2020/icl-utk-1419-2020.pdf)
 * [Presentation](/files/2020-08-27-SMC20-recording.mp4)
 
 **N. Lindquist**, “Replicated Computational Results (RCR) Report for ‘Code Generation for Generally Mapped Finite Elements,’” ACM Trans. Math. Softw., vol. 45, no. 4, pp. 42:1–42:7, Dec. 2019.
