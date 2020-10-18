@@ -24,7 +24,7 @@ B.A. *magna cum laude* in Math and Computer Science, Saint John's University, 20
 
 # Honors and Awards
 
-Top 500 Fellowship, University of Tennessee (August 2019 - Present)
+Tennessee's Top 100 Fellowship, University of Tennessee (August 2019 - Present)
 
 Pi Mu Epsilon Mathematics Honor Society (inducted May 2019)
 
@@ -42,8 +42,7 @@ Eagle Scout (awarded June 2014)
 * [Presentation](/files/2020-08-27-SMC20-recording.mp4)
 
 **N. Lindquist**, “Replicated Computational Results (RCR) Report for ‘Code Generation for Generally Mapped Finite Elements,’” ACM Trans. Math. Softw., vol. 45, no. 4, pp. 42:1–42:7, Dec. 2019.
-* A replication of the computational results in the named paper by Robert C. Kirby and Lawrence Mitchell
-* [Download](https://dl.acm.org/authorize?N690907)
+* [Official Download](https://dl.acm.org/authorize?N690907)
 
 
 # Presentations
@@ -67,7 +66,7 @@ A. Abdelfattah, et al., "A Survey of Numerical Methods Utilizing Mixed Precision
 
 Graduate Research Assistant - [Innovative Computing Laboratory](https://icl.utk.edu/) at the University of Tennesee under Dr. Jack Dongarra (July 2019 through the present)
 * Experimenting with use of a mix of double and single floating point precision in GMRES, a sparse, iterative linear solver.
-* Experimenting with using Random Butterfly Transforms to replace pivoting in LU factorization for the SLATE distributed, dense linear algebra library.
+* Experimenting with using Random Butterfly Transforms to replace pivoting in LU factorization for SLATE, a distributed, GPU-accelerated, dense linear algebra library.
 
 Graduate Research Assistant - [Global Computing Laboratory](https://globalcomputing.group/) at the University of Tennesee under Dr. Michela Taufer (August 2019 through February 2020)
 * Contributed to a machine learning based workflow for classification of protein structural properties from XFEL diffraction patterns.
