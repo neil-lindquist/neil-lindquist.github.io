@@ -22,13 +22,16 @@ The current goal is to be able to achieve the performance of a double precision 
   * [Presentation](/files/2020-08-27-SMC20-recording.mp4)
 * [Improving the Performance of GMRES using Mixed Precision](/files/2020-02-13-SIAM_PP20-slides.pdf) - presented at the 2020 SIAM Conference on Parallel Processing for Scientific Computing
 
-### SLIMA
+### Atom for Common Lisp
 ##### April 2019 - Present
-An Atom package for interactive Common Lisp development, based on the Emacs plugin SLIME.
+I maintain two packages for developing Lisp (especially Common Lisp) in the Atom text editor.
+First is SLIMA, which provides interactive Common Lisp development, based on the Emacs plugin SLIME.
 This is a fork of [Steve Levine's Atom-Slime](https://github.com/sjlevine/atom-slime).
+Second is Lisp-Paredit, which provides commands for editing any S-expression based language, originally developed by [Jon Spalding](https://github.com/jonspalding/).
 
-* [Atom package page](https://atom.io/packages/slima) - The package page
-* [Swank-Client](https://www.npmjs.com/package/swank-client) - The NPM package that handles the actual swank remote calls.
+* [SLIMA package page](https://atom.io/packages/slima)
+* [Swank-Client](https://www.npmjs.com/package/swank-client) - The NPM package that handles the underlying swank remote calls for SLIMA.
+* [Lisp-Paredit package page](https://atom.io/packages/lisp-paredit)
 
 # Past Projects
 
