@@ -5,5 +5,4 @@ https://neil-lindquist.github.io/projects/
 https://neil-lindquist.github.io/linear-programming/
 https://neil-lindquist.github.io/CI-Utils/
 
-https://www.icl.utk.edu/files/publications/2020/icl-utk-1419-2020.pdf
 https://neil-lindquist.github.io/files/2020-11-12-ScalA20-paper.pdf
