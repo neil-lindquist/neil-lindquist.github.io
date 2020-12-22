@@ -34,15 +34,13 @@ Eagle Scout (awarded June 2014)
 
 # Publications
 
-[Accepted] **N. Lindquist**, P. Luszczek, and J. Dongarra, “Replacing Pivoting in Distributed Gaussian Elimination with Randomized Techniques,” presented at the 2020 IEEE/ACM 11th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (ScalA), Atlanta, GA, USA, Nov. 2020.
-* [Preprint](/files/2020-11-12-ScalA20-paper.pdf)
+[In Press] **N. Lindquist**, P. Luszczek, and J. Dongarra, “Replacing Pivoting in Distributed Gaussian Elimination with Randomized Techniques,” presented at the 2020 IEEE/ACM 11th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (ScalA), Atlanta, GA, USA, Nov. 2020. DOI: [10.1109/ScalA51936.2020.0001](https://doi.org/10.1109/ScalA51936.2020.0001)
+* [Preprint PDF](/files/2020-11-12-ScalA20-paper.pdf)
 
-[In press] **N. Lindquist**, P. Luszczek, and J. Dongarra, “Improving the Performance of the GMRES method using Mixed-Precision Techniques,” presented at the 17th Smoky Mountains Computational Sciences and Engineering Conference, SMC 2020, Oak Ridge, TN, USA, Aug. 2020.
-* [Preprint](https://www.icl.utk.edu/files/publications/2020/icl-utk-1419-2020.pdf)
-* [Presentation](/files/2020-08-27-SMC20-recording.mp4)
+**N. Lindquist**, P. Luszczek, and J. Dongarra, “Improving the Performance of the GMRES method using Mixed-Precision Techniques,” presented at the 17th Smoky Mountains Computational Sciences and Engineering Conference, SMC 2020, Oak Ridge, TN, USA, Aug. 2020. DOI: [10.1007/978-3-030-63393-6_4](https://doi.org/10.1007/978-3-030-63393-6_4)
+* [Preprint PDF](https://www.icl.utk.edu/files/publications/2020/icl-utk-1419-2020.pdf)
 
-**N. Lindquist**, “Replicated Computational Results (RCR) Report for ‘Code Generation for Generally Mapped Finite Elements,’” ACM Trans. Math. Softw., vol. 45, no. 4, pp. 42:1–42:7, Dec. 2019.
-* [Official Download](https://dl.acm.org/authorize?N690907)
+**N. Lindquist**, “Replicated Computational Results (RCR) Report for ‘Code Generation for Generally Mapped Finite Elements,’” ACM Trans. Math. Softw., vol. 45, no. 4, pp. 42:1–42:7, Dec. 2019. DOI: [10.1145/3360984](https://dl.acm.org/authorize?N690907)
 
 
 # Presentations
@@ -59,8 +57,7 @@ Eagle Scout (awarded June 2014)
 
 # Tech Reports
 
-A. Abdelfattah, et al., "A Survey of Numerical Methods Utilizing Mixed Precision Arithmetic", 2020, arXiv:2007.06674
-* [arXiv](https://arxiv.org/abs/2007.06674)
+A. Abdelfattah, et al., "A Survey of Numerical Methods Utilizing Mixed Precision Arithmetic", 2020, [arXiv:2007.06674](https://arxiv.org/abs/2007.06674)
 
 # Research Experience
 
