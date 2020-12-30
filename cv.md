@@ -37,6 +37,8 @@ Eagle Scout (awarded June 2014)
 [In Press] **N. Lindquist**, P. Luszczek, and J. Dongarra, “Replacing Pivoting in Distributed Gaussian Elimination with Randomized Techniques,” presented at the 2020 IEEE/ACM 11th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (ScalA), Atlanta, GA, USA, Nov. 2020. DOI: [10.1109/ScalA51936.2020.0001](https://doi.org/10.1109/ScalA51936.2020.0001)
 * [Preprint PDF](/files/2020-11-12-ScalA20-paper.pdf)
 
+P. Luszczek, Y. Tsai, **N. Lindquist**, H. Anzt, and J. Dongarra, “Scalable data generation for evaluating mixed-precision solvers,” presented at the 2020 IEEE high performance extreme computing conference (HPEC), Waltham, MA, USA, Sep. 2020, pp. 1–6, DOI: [10.1109/HPEC43674.2020.9286145](https://doi.org/10.1109/HPEC43674.2020.9286145).
+
 **N. Lindquist**, P. Luszczek, and J. Dongarra, “Improving the Performance of the GMRES method using Mixed-Precision Techniques,” presented at the 17th Smoky Mountains Computational Sciences and Engineering Conference, SMC 2020, Oak Ridge, TN, USA, Aug. 2020. DOI: [10.1007/978-3-030-63393-6_4](https://doi.org/10.1007/978-3-030-63393-6_4)
 * [Preprint PDF](https://www.icl.utk.edu/files/publications/2020/icl-utk-1419-2020.pdf)
 
