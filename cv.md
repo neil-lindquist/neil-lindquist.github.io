@@ -47,6 +47,9 @@ P. Luszczek, Y. Tsai, **N. Lindquist**, H. Anzt, and J. Dongarra, “Scalable da
 
 # Presentations
 
+[Accelerating GMRES via Mixed Precision](/files/2021-02-25-JLESC-slides.pdf)
+* 12th JLESC workshop
+
 [Improve the Performance of GMRES using Mixed Precision](/files/2020-02-13-SIAM_PP20-slides.pdf)
 * 2020 SIAM Conference of Parallel Processing for Scientific Computing
 
