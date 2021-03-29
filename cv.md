@@ -12,6 +12,13 @@ meta-description: The Curriculum Vitae of Neil Lindquist
   NeilLindquist5@gmail.com
 </p>
 
+# Research Interests
+Numerical Linear Algebra
+
+Effects of data representation on performance and accuracy
+
+High performance computing
+
 # Education
 
 Ph.D. student in Computer Science, University of Tennesee,
