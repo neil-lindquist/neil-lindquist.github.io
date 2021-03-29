@@ -22,6 +22,17 @@ B.A. *magna cum laude* in Math and Computer Science, Saint John's University, 20
 * Advised by Dr. Mike Heroux
 * Thesis: [Reducing Memory Access Latencies using Data Compression in Sparse, Iterative Linear Solvers](https://github.com/neil-lindquist/Undergrad-Thesis/blob/master/thesis.pdf)
 
+
+ Graduate Research Assistant - University of Tennessee (July 2019 through the present)
+ * Experimenting with use of a mix of double and single floating point precision in GMRES, a sparse, iterative linear solver.
+ * Experimenting with using Random Butterfly Transforms to replace pivoting in LU factorization for SLATE, a distributed, GPU-accelerated, dense linear algebra library.
+ * Contributed to a machine learning based workflow for classification of protein structural properties from XFEL diffraction patterns.
+
+Research Assistant - Saint John's University (May 2017 through May 2019)
+ * Explored the use of data compression to improve the performance of Conjugate Gradient, a sparse, iterative linear solver.
+ * Tested the effect on performance of using Julia, a high level programming language, to implement distributed, sparse linear algebra codes.
+
+
 # Honors and Awards
 
 Tennessee's Top 100 Fellowship, University of Tennessee (August 2019 - Present)
@@ -57,18 +68,10 @@ P. Luszczek, Y. Tsai, **N. Lindquist**, H. Anzt, and J. Dongarra, “Scalable da
  * 2019 CSB/SJU Pi Mu Epsilon Conference
 
 [Obtaining Performance from a Julia-Implementation of Trilinos Data Librairies](https://www.pathlms.com/siam/courses/10878/sections/14368/video_presentations/127457)
- * 2019 SIAM Conference on Computational Science and Engineering
- 
+ * 2019 SIAM Conference on Computational Science and Engineering# Research Experience
 
-# Research Experience
+# Teaching Experience
 
-Graduate Research Assistant - [Innovative Computing Laboratory](https://icl.utk.edu/) at the University of Tennesee under Dr. Jack Dongarra (July 2019 through the present)
-* Experimenting with use of a mix of double and single floating point precision in GMRES, a sparse, iterative linear solver.
-* Experimenting with using Random Butterfly Transforms to replace pivoting in LU factorization for SLATE, a distributed, GPU-accelerated, dense linear algebra library.
+Graduate Teaching Assistant - Scientific Computing For Engineers (Spring 2020)
 
-Graduate Research Assistant - [Global Computing Laboratory](https://globalcomputing.group/) at the University of Tennesee under Dr. Michela Taufer (August 2019 through February 2020)
-* Contributed to a machine learning based workflow for classification of protein structural properties from XFEL diffraction patterns.
-
-Research Assistant - [Collegeville Group](http://github.com/Collegeville) at Saint John's University under Dr. Mike Heroux (May 2017 through May 2019)
-* Explored the use of data compression to improve the performance of Conjugate Gradient, a sparse, iterative linear solver.
-* Tested the effect on performance of using Julia, a high level programming language, to implement distributed, sparse linear algebra codes.
+Graduate Teaching Assistant - Scientific Computing For Engineers (Spring 2019)
