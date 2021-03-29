@@ -58,11 +58,7 @@ P. Luszczek, Y. Tsai, **N. Lindquist**, H. Anzt, and J. Dongarra, “Scalable da
 
 [Obtaining Performance from a Julia-Implementation of Trilinos Data Librairies](https://www.pathlms.com/siam/courses/10878/sections/14368/video_presentations/127457)
  * 2019 SIAM Conference on Computational Science and Engineering
-
-
-# Tech Reports
-
-A. Abdelfattah, et al., "A Survey of Numerical Methods Utilizing Mixed Precision Arithmetic", 2020, [arXiv:2007.06674](https://arxiv.org/abs/2007.06674)
+ 
 
 # Research Experience
 
