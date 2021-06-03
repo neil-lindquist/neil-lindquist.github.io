@@ -29,8 +29,12 @@ B.A. *magna cum laude* in Math and Computer Science, Saint John's University, 20
 * Advised by Dr. Mike Heroux
 * Thesis: [Reducing Memory Access Latencies using Data Compression in Sparse, Iterative Linear Solvers](https://github.com/neil-lindquist/Undergrad-Thesis/blob/master/thesis.pdf)
 
+# Research Experience
 
- Graduate Research Assistant - University of Tennessee (July 2019 through the present)
+Givens Associate - Argonne National Laboratory (May 2021 through August 2021)
+ * Porting interpolation routines to GPU accelerators using the [OCCA](https://libocca.org) runtime in [NekRS](https://github.com/Nek5000/nekRS), a spectral-element based fluid dynamics code.
+
+Graduate Research Assistant - University of Tennessee (July 2019 through the present)
  * Experimenting with use of a mix of double and single floating point precision in GMRES, a sparse, iterative linear solver.
  * Experimenting with using Random Butterfly Transforms to replace pivoting in LU factorization for SLATE, a distributed, GPU-accelerated, dense linear algebra library.
  * Contributed to a machine learning based workflow for classification of protein structural properties from XFEL diffraction patterns.
@@ -52,6 +56,8 @@ Eagle Scout (awarded June 2014)
 
 # Publications
 
+[Accepted] **N. Lindquist**, P. Luszczek, and J. Dongarra, “Accelerating GMRES with Mixed Precision Arithmetic,” IEEE Transactions on Parallel and Distributed Systems (IEEE TPDS) Special Section on Innovative R&D toward the Exascale Era
+
 **N. Lindquist**, P. Luszczek, and J. Dongarra, “Replacing Pivoting in Distributed Gaussian Elimination with Randomized Techniques,” presented at the 2020 IEEE/ACM 11th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (ScalA), Atlanta, GA, USA, Nov. 2020, DOI: [10.1109/ScalA51936.2020.0001](https://doi.org/10.1109/ScalA51936.2020.0001)
 * [Preprint PDF](/files/2020-11-12-ScalA20-paper.pdf)
 
@@ -64,6 +70,9 @@ P. Luszczek, Y. Tsai, **N. Lindquist**, H. Anzt, and J. Dongarra, “Scalable da
 
 
 # Presentations
+
+[Multiprecision Approach in GMRES and its Effects on Performance](/files/2021-05-18-SIAM_LA21-slides.pdf)
+* 2021 SIAM Conference on Applied Linear Algebra
 
 [Accelerating GMRES via Mixed Precision](/files/2021-02-25-JLESC-slides.pdf)
 * 12th JLESC workshop
