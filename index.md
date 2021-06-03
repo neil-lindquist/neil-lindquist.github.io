@@ -4,10 +4,10 @@ meta-description: The homepage of Neil Lindquist
 ---
 
 I am a Ph.D. student at the University of Tennessee in Knoxville and a graduate research assistant in Dr. Jack Dongarra's Innovative Computing Laboratory.
-My research interests include using multiple floating point precisions, and other data compression, to improve the performance of sparse linear algebra codes.
+My research interests include numerical linear algebra, the use of multiple floating point precisions and other data representations, and high performance computing.
 
 I earned my B.A. degree in  Math and Computer Science at [Saint John's University](https://www.csbsju.edu/) in Minnesota.
-As a member of the [Collegeville](http://github.com/Collegeville) research group, I did research in high performance sparse linear algebra, which lead to my current position.
+As a member of the [Collegeville](http://github.com/Collegeville) research group, I did research in high performance sparse linear algebra, including exploring the use of mixed precision and testing the Julia programing language in an distributed context.
 
 My hobbies include programming, rowing and board games.
 My hobby programming spans a variety of small projects, primarily involving Common Lisp.
