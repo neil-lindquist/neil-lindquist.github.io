@@ -21,7 +21,7 @@ High performance computing
 
 # Education
 
-Ph.D. student in Computer Science, University of Tennesee,
+Ph.D. student in Computer Science, University of Tennessee,
 * Advised by Dr. Jack Dongarra
 
 B.A. *magna cum laude* in Math and Computer Science, Saint John's University, 2019
@@ -36,7 +36,7 @@ Givens Associate - Argonne National Laboratory (May 2021 through August 2021)
 
 Graduate Research Assistant - University of Tennessee (July 2019 through the present)
  * Experimenting with use of a mix of double and single floating point precision in GMRES, a sparse, iterative linear solver.
- * Experimenting with using Random Butterfly Transforms to replace pivoting in LU factorization for SLATE, a distributed, GPU-accelerated, dense linear algebra library.
+ * Experimenting with using Random Butterfly Transforms to replace pivoting in LU factorization for [SLATE](http://icl.utk.edu/slate/), a distributed, GPU-accelerated, dense linear algebra library.
  * Contributed to a machine learning based workflow for classification of protein structural properties from XFEL diffraction patterns.
 
 Research Assistant - Saint John's University (May 2017 through May 2019)
@@ -57,6 +57,7 @@ Eagle Scout (awarded June 2014)
 # Publications
 
 [Accepted] **N. Lindquist**, P. Luszczek, and J. Dongarra, “Accelerating GMRES with Mixed Precision Arithmetic,” IEEE Transactions on Parallel and Distributed Systems (IEEE TPDS) Special Section on Innovative R&D toward the Exascale Era
+* [Preprint PDF](https://www.icl.utk.edu/files/publications/icl-utk-1485.pdf)
 
 **N. Lindquist**, P. Luszczek, and J. Dongarra, “Replacing Pivoting in Distributed Gaussian Elimination with Randomized Techniques,” presented at the 2020 IEEE/ACM 11th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (ScalA), Atlanta, GA, USA, Nov. 2020, DOI: [10.1109/ScalA51936.2020.0001](https://doi.org/10.1109/ScalA51936.2020.0001)
 * [Preprint PDF](/files/2020-11-12-ScalA20-paper.pdf)
