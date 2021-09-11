@@ -32,11 +32,11 @@ B.A. *magna cum laude* in Math and Computer Science, Saint John's University, 20
 # Research Experience
 
 Givens Associate - Argonne National Laboratory (May 2021 through August 2021)
- * Porting interpolation routines to GPU accelerators using the [OCCA](https://libocca.org) runtime in [NekRS](https://github.com/Nek5000/nekRS), a spectral-element based fluid dynamics code.
+ * Ported interpolation routines to GPU accelerators using the [OCCA](https://libocca.org) runtime in [NekRS](https://github.com/Nek5000/nekRS), a spectral-element based fluid dynamics code.  The added routines where then used to implement both particle tracking and overlapping mesh functionalities.
 
 Graduate Research Assistant - University of Tennessee (July 2019 through the present)
- * Experimenting with use of a mix of double and single floating point precision in GMRES, a sparse, iterative linear solver.
  * Experimenting with using Random Butterfly Transforms to replace pivoting in LU factorization for [SLATE](http://icl.utk.edu/slate/), a distributed, GPU-accelerated, dense linear algebra library.
+ * Experimenting with use of a mix of double and single floating point precision in GMRES, a sparse, iterative linear solver.
  * Contributed to a machine learning based workflow for classification of protein structural properties from XFEL diffraction patterns.
 
 Research Assistant - Saint John's University (May 2017 through May 2019)
@@ -56,7 +56,7 @@ Eagle Scout (awarded June 2014)
 
 # Publications
 
-[Accepted] **N. Lindquist**, P. Luszczek, and J. Dongarra, “Accelerating GMRES with Mixed Precision Arithmetic,” IEEE Transactions on Parallel and Distributed Systems (IEEE TPDS) Special Section on Innovative R&D toward the Exascale Era
+**N. Lindquist**, P. Luszczek, and J. Dongarra, “Accelerating Restarted GMRES with Mixed Precision Arithmetic,” IEEE Transactions on Parallel and Distributed Systems (IEEE TPDS) Special Section on Innovative R&D toward the Exascale Era, DOI: [10.1109/TPDS.2021.3090757](https://doi.org/10.1109/TPDS.2021.3090757)
 * [Preprint PDF](https://www.icl.utk.edu/files/publications/icl-utk-1485.pdf)
 
 **N. Lindquist**, P. Luszczek, and J. Dongarra, “Replacing Pivoting in Distributed Gaussian Elimination with Randomized Techniques,” presented at the 2020 IEEE/ACM 11th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (ScalA), Atlanta, GA, USA, Nov. 2020, DOI: [10.1109/ScalA51936.2020.0001](https://doi.org/10.1109/ScalA51936.2020.0001)
