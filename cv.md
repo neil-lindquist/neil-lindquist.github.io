@@ -92,6 +92,6 @@ P. Luszczek, Y. Tsai, **N. Lindquist**, H. Anzt, and J. Dongarra, “Scalable da
 
 # Teaching Experience
 
-Graduate Teaching Assistant - Scientific Computing For Engineers (Spring 2020)
+Graduate Teaching Assistant - Scientific Computing For Engineers (Spring 2021)
 
-Graduate Teaching Assistant - Scientific Computing For Engineers (Spring 2019)
+Graduate Teaching Assistant - Scientific Computing For Engineers (Spring 2020)
