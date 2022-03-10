@@ -59,7 +59,7 @@ Eagle Scout (awarded June 2014)
 **N. Lindquist**, P. Luszczek, and J. Dongarra, “Accelerating Restarted GMRES with Mixed Precision Arithmetic,” IEEE Transactions on Parallel and Distributed Systems (IEEE TPDS) Special Section on Innovative R&D toward the Exascale Era, DOI: [10.1109/TPDS.2021.3090757](https://doi.org/10.1109/TPDS.2021.3090757)
 * [Preprint PDF](https://www.icl.utk.edu/files/publications/2021/icl-utk-1547-2021.pdf)
 
-**N. Lindquist**, P. Luszczek, and J. Dongarra, “Replacing Pivoting in Distributed Gaussian Elimination with Randomized Techniques,” presented at the 2020 IEEE/ACM 11th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (ScalA), Atlanta, GA, USA, Nov. 2020, DOI: [10.1109/ScalA51936.2020.0001](https://doi.org/10.1109/ScalA51936.2020.00010)
+**N. Lindquist**, P. Luszczek, and J. Dongarra, “Replacing Pivoting in Distributed Gaussian Elimination with Randomized Techniques,” presented at the 2020 IEEE/ACM 11th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (ScalA), Atlanta, GA, USA, Nov. 2020, DOI: [10.1109/ScalA51936.2020.00010](https://doi.org/10.1109/ScalA51936.2020.00010)
 * [Preprint PDF](https://www.icl.utk.edu/files/publications/2020/icl-utk-1440-2020.pdf)
 
 P. Luszczek, Y. Tsai, **N. Lindquist**, H. Anzt, and J. Dongarra, “Scalable data generation for evaluating mixed-precision solvers,” presented at the 2020 IEEE High Performance Extreme Computing Conference (HPEC), Waltham, MA, USA, Sep. 2020, pp. 1–6, DOI: [10.1109/HPEC43674.2020.9286145](https://doi.org/10.1109/HPEC43674.2020.9286145).
