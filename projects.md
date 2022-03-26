@@ -6,21 +6,14 @@ meta-description: The current projects in progress of Neil Lindquist
 
 # Current Projects
 
-### Randomized LU Factorization
+### Scalable LU Factorizations
 ##### February 2020 - Present
-Experimenting with the use of Randomized Butterfly Transforms to replace pivoting in large scale, distributed gaussian elimination codes.
-Replacing pivoting with a simple precondition steps, reduces the amount of communication, particularly from key tight loops.
+Experimenting with the use of various approaches to improve the performance of distributed, GPU-accelerated LU factorizations.
+Such factorizations require partial pivoting for numerical stability; however, this introduces significant overheads to search for and apply such pivots.
+The primary branch of this work to date involves the use of Randomized Butterfly Transforms to shuffle the matrix in such a way that pivoting is unnecessary.
+Other efforts have included optimizing the pivoted and non-pivoted implementations of LU in SLATE, a dense linear algebra library for distributed, heterogenous systems.
 The current work uses the [SLATE](https://icl.utk.edu/slate) dense linear algebra library.
 * [Replacing Pivoting in Distributed Gaussian Elimination with Randomized Techniques](/files/2020-11-12-ScalA20-paper.pdf) - paper at the 11th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems
-
-### Mixed precision GMRES
-##### August 2019 - Present
-Exploring how the use of different precisions for different parts of the solver affects the performance and convergence of GMRES.
-The current goal is to be able to achieve the performance of a double precision GMRES implementation while selectively using lower precision in order to reduce data movement costs.
-
-* [Improving the Performance of the GMRES method using Mixed-Precision Techniques](https://www.icl.utk.edu/files/publications/2020/icl-utk-1419-2020.pdf) - paper at the 2020 Smokey Mountains Conference
-  * [Presentation](/files/2020-08-27-SMC20-recording.mp4)
-* [Improving the Performance of GMRES using Mixed Precision](/files/2020-02-13-SIAM_PP20-slides.pdf) - presented at the 2020 SIAM Conference on Parallel Processing for Scientific Computing
 
 ### Atom for Common Lisp
 ##### April 2019 - Present
@@ -34,6 +27,21 @@ Second is Lisp-Paredit, which provides commands for editing any S-expression bas
 * [Lisp-Paredit package page](https://atom.io/packages/lisp-paredit)
 
 # Past Projects
+
+### Scalable Interpolation for Thermal-Fluids Applications
+#### May 2021 - September 2021
+Ported interpolation routines to the OCCA runtime system in NekRS, a GPU-accelerated, spectral-element code for simulation fluids and their temperature.
+These routines were used to implement both particle tracking and multiple, overlapped meshes.
+
+
+### Mixed precision GMRES
+##### August 2019 - June 2021
+Exploration of the use of different precisions for different parts of the solver affects the performance and convergence of GMRES.
+The work primarily focused on achieving the accuracy of a double precision GMRES implementation while selectively using lower precision to reduce data movement costs.
+
+* [Accelerating Restarted GMRES with Mixed Precision Arithmetic](https://www.icl.utk.edu/files/publications/2021/icl-utk-1547-2021.pdf) - paper in the IEEE Transactions on Parallel and Distributed Systems
+* [Improving the Performance of the GMRES method using Mixed-Precision Techniques](https://www.icl.utk.edu/files/publications/2020/icl-utk-1419-2020.pdf) - paper at the 2020 Smokey Mountains Conference
+  * [Presentation](/files/2020-08-27-SMC20-recording.mp4)
 
 ### Reducing Memory Access Costs using Data Compression in Conjugate Gradient
 ##### May 2017 - April 2019

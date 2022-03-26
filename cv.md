@@ -36,7 +36,7 @@ Givens Associate - Argonne National Laboratory (May 2021 through August 2021)
 
 Graduate Research Assistant - University of Tennessee (July 2019 through the present)
  * Experimenting with using Random Butterfly Transforms to replace pivoting in LU factorization for [SLATE](http://icl.utk.edu/slate/), a distributed, GPU-accelerated, dense linear algebra library.
- * Experimenting with use of a mix of double and single floating point precision in GMRES, a sparse, iterative linear solver.
+ * Experimented with mixing double and single floating point precision in GMRES, a sparse, iterative linear solver.
  * Contributed to a machine learning based workflow for classification of protein structural properties from XFEL diffraction patterns.
 
 Research Assistant - Saint John's University (May 2017 through May 2019)
