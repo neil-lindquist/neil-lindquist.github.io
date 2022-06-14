@@ -31,6 +31,9 @@ B.A. *magna cum laude* in Math and Computer Science, Saint John's University, 20
 
 # Research Experience
 
+Intern - MathWorks (May 2022 through August 2022)
+ * Contributed to the development of MATLAB linear algebra routines.
+
 Givens Associate - Argonne National Laboratory (May 2021 through August 2021)
  * Ported interpolation routines to GPU accelerators using the [OCCA](https://libocca.org) runtime in [NekRS](https://github.com/Nek5000/nekRS), a spectral-element based fluid dynamics code.  The added routines where then used to implement both particle tracking and overlapping mesh functionalities.
 
