@@ -59,7 +59,7 @@ Eagle Scout (awarded June 2014)
 
 # Publications
 
-**N. Lindquist**, P. Luszczek, and J. Dongarra, “Accelerating Restarted GMRES with Mixed Precision Arithmetic,” IEEE Transactions on Parallel and Distributed Systems (IEEE TPDS) Special Section on Innovative R&D toward the Exascale Era, DOI: [10.1109/TPDS.2021.3090757](https://doi.org/10.1109/TPDS.2021.3090757)
+**N. Lindquist**, P. Luszczek, and J. Dongarra, “Accelerating Restarted GMRES With Mixed Precision Arithmetic,” in IEEE Transactions on Parallel and Distributed Systems, vol. 33, no. 4, pp. 1027-1037, April 2022, DOI: [10.1109/TPDS.2021.3090757](https://doi.org/10.1109/TPDS.2021.3090757)
 * [Preprint PDF](https://www.icl.utk.edu/files/publications/2021/icl-utk-1547-2021.pdf)
 
 **N. Lindquist**, P. Luszczek, and J. Dongarra, “Replacing Pivoting in Distributed Gaussian Elimination with Randomized Techniques,” presented at the 2020 IEEE/ACM 11th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (ScalA), Atlanta, GA, USA, Nov. 2020, DOI: [10.1109/ScalA51936.2020.00010](https://doi.org/10.1109/ScalA51936.2020.00010)
