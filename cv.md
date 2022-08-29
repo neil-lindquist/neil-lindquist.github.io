@@ -76,6 +76,9 @@ P. Luszczek, Y. Tsai, **N. Lindquist**, H. Anzt, and J. Dongarra, “Scalable da
 
 # Presentations
 
+[Modern Mixed-Precision Methods in Portable C++ for Accelerated Hardware Platforms](/files/2022-02-26-SIAM_PP22-slides.pdf)
+* 2022 SIAM Conference on Parallel Processing for Scientific Computing
+
 [Replacing Pivoting in Distributed Gaussian Elimination with Randomized Techniques](/files/2021-07-23-SIAM_AN21-slides.pdf)
 * 2021 SIAM Annual Meeting
 
