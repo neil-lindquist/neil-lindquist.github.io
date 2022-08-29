@@ -79,6 +79,9 @@ P. Luszczek, Y. Tsai, **N. Lindquist**, H. Anzt, and J. Dongarra, “Scalable da
 [Modern Mixed-Precision Methods in Portable C++ for Accelerated Hardware Platforms](/files/2022-02-26-SIAM_PP22-slides.pdf)
 * 2022 SIAM Conference on Parallel Processing for Scientific Computing
 
+Replacing Pivoting in Distributed Gaussian Elimination with Randomized Techniques
+* 13th JLESC workshop
+
 [Replacing Pivoting in Distributed Gaussian Elimination with Randomized Techniques](/files/2021-07-23-SIAM_AN21-slides.pdf)
 * 2021 SIAM Annual Meeting
 
@@ -95,7 +98,7 @@ P. Luszczek, Y. Tsai, **N. Lindquist**, H. Anzt, and J. Dongarra, “Scalable da
  * 2019 CSB/SJU Pi Mu Epsilon Conference
 
 [Obtaining Performance from a Julia-Implementation of Trilinos Data Librairies](https://www.pathlms.com/siam/courses/10878/sections/14368/video_presentations/127457)
- * 2019 SIAM Conference on Computational Science and Engineering# Research Experience
+ * 2019 SIAM Conference on Computational Science and Engineering
 
 # Teaching Experience
 
