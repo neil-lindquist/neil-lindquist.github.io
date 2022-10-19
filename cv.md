@@ -68,10 +68,10 @@ Eagle Scout (awarded June 2014)
 **N. Lindquist**, P. Luszczek, and J. Dongarra, “Replacing Pivoting in Distributed Gaussian Elimination with Randomized Techniques,” presented at the 2020 IEEE/ACM 11th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (ScalA), Atlanta, GA, USA, Nov. 2020, DOI: [10.1109/ScalA51936.2020.00010](https://doi.org/10.1109/ScalA51936.2020.00010)
 * [Preprint PDF](https://www.icl.utk.edu/files/publications/2020/icl-utk-1440-2020.pdf)
 
-P. Luszczek, Y. Tsai, **N. Lindquist**, H. Anzt, and J. Dongarra, “Scalable data generation for evaluating mixed-precision solvers,” presented at the 2020 IEEE High Performance Extreme Computing Conference (HPEC), Waltham, MA, USA, Sep. 2020, pp. 1–6, DOI: [10.1109/HPEC43674.2020.9286145](https://doi.org/10.1109/HPEC43674.2020.9286145).
+P. Luszczek, Y. Tsai, **N. Lindquist**, H. Anzt, and J. Dongarra, “Scalable Data Generation for Evaluating Mixed-Precision Solvers,” presented at the 2020 IEEE High Performance Extreme Computing Conference (HPEC), Waltham, MA, USA, Sep. 2020, pp. 1–6, DOI: [10.1109/HPEC43674.2020.9286145](https://doi.org/10.1109/HPEC43674.2020.9286145).
 * [Preprint PDF](https://www.icl.utk.edu/files/publications/2020/icl-utk-1484-2020.pdf)
 
-**N. Lindquist**, P. Luszczek, and J. Dongarra, “Improving the Performance of the GMRES method using Mixed-Precision Techniques,” presented at the 17th Smoky Mountains Computational Sciences and Engineering Conference, SMC 2020, Oak Ridge, TN, USA, Aug. 2020, DOI: [10.1007/978-3-030-63393-6_4](https://doi.org/10.1007/978-3-030-63393-6_4)
+**N. Lindquist**, P. Luszczek, and J. Dongarra, “Improving the Performance of the GMRES Method using Mixed-Precision Techniques,” presented at the 17th Smoky Mountains Computational Sciences and Engineering Conference, SMC 2020, Oak Ridge, TN, USA, Aug. 2020, DOI: [10.1007/978-3-030-63393-6_4](https://doi.org/10.1007/978-3-030-63393-6_4)
 * [Preprint PDF](https://www.icl.utk.edu/files/publications/2020/icl-utk-1419-2020.pdf)
 
 **N. Lindquist**, “Replicated Computational Results (RCR) Report for ‘Code Generation for Generally Mapped Finite Elements,’” ACM Trans. Math. Softw., vol. 45, no. 4, pp. 42:1–42:7, Dec. 2019, DOI: [10.1145/3360984]( https://dl.acm.org/doi/10.1145/3360984?cid=99659486680)
