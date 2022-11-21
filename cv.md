@@ -21,7 +21,7 @@ High performance computing
 
 # Education
 
-Ph.D. student in Computer Science, University of Tennessee,
+Ph.D. candidate in Computer Science, University of Tennessee,
 * Advised by Dr. Jack Dongarra
 
 B.A. *magna cum laude* in Math and Computer Science, Saint John's University, 2019
