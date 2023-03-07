@@ -17,34 +17,43 @@ Numerical Linear Algebra
 
 Effects of data representation on performance and accuracy
 
+Approximate computing algorithms
+
 High performance computing
+
 
 # Education
 
-Ph.D. candidate in Computer Science, University of Tennessee,
+Ph.D. candidate in Computer Science, University of Tennessee
 * Advised by Dr. Jack Dongarra
+
+M.S. in Computer Science, University of Tennessee, 2022
 
 B.A. *magna cum laude* in Math and Computer Science, Saint John's University, 2019
 
 * Advised by Dr. Mike Heroux
 * Thesis: [Reducing Memory Access Latencies using Data Compression in Sparse, Iterative Linear Solvers](https://github.com/neil-lindquist/Undergrad-Thesis/blob/master/thesis.pdf)
 
+
 # Research Experience
 
+Graduate Research Assistant - University of Tennessee (July 2019 through the present)
+ * Developing optimizations and algorithms to address the performance of pivoting in dense, distributed LU factorizations.
+   * Primarily focused on [SLATE](http://icl.utk.edu/slate/), a distributed, heterogeneous, dense linear algebra library.
+   * Approaches include randomization, relaxing pivoting criteria, and adjusting MPI calls.
+ * Experimented with mixing double and single floating point precision in GMRES, a sparse, iterative linear solver.
+ * Contributed to a machine learning based workflow for classification of protein structures from XFEL diffraction patterns.
+
 Intern - MathWorks (May 2022 through August 2022)
- * Contributed to the development of MATLAB linear algebra routines.
+ * Contributed to the development and optimization of MATLAB linear algebra routines, including sparse-matrix-multiplication, least-squares, and eigenvalue problems.
 
 Givens Associate - Argonne National Laboratory (May 2021 through August 2021)
- * Ported interpolation routines to GPU accelerators using the [OCCA](https://libocca.org) runtime in [NekRS](https://github.com/Nek5000/nekRS), a spectral-element based fluid dynamics code.  The added routines where then used to implement both particle tracking and overlapping mesh functionalities.
-
-Graduate Research Assistant - University of Tennessee (July 2019 through the present)
- * Experimenting with using Random Butterfly Transforms to replace pivoting in LU factorization for [SLATE](http://icl.utk.edu/slate/), a distributed, GPU-accelerated, dense linear algebra library.
- * Experimented with mixing double and single floating point precision in GMRES, a sparse, iterative linear solver.
- * Contributed to a machine learning based workflow for classification of protein structural properties from XFEL diffraction patterns.
+ * Ported interpolation routines to GPU accelerators using the [OCCA](https://libocca.org) runtime in [NekRS](https://github.com/Nek5000/nekRS), a spectral-element based fluid dynamics code.
+ * Implemented particle-tracking and overlapping simulation domains functionalities in NekRS using the new interpolation routines.
 
 Research Assistant - Saint John's University (May 2017 through May 2019)
- * Explored the use of data compression to improve the performance of Conjugate Gradient, a sparse, iterative linear solver.
- * Tested the effect on performance of using Julia, a high level programming language, to implement distributed, sparse linear algebra codes.
+ * Explored using data compression in Conjugate Gradient on distributed CPU clusters.
+ * Investigated using the Julia language for distributed-memory sparse linear algebra.
 
 
 # Honors and Awards
@@ -59,7 +68,7 @@ Eagle Scout (awarded June 2014)
 
 # Publications
 
-[Accepted] **N. Lindquist**, M. Gates, P. Luszczek, and J. Dongarra, “Threshold Pivoting for Dense LU Factorization,” presented at the 2022 IEEE/ACM 13th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Heterogeneous Systems (ScalAH), Dallas, TX, USA, Nov. 2022
+**N. Lindquist**, M. Gates, P. Luszczek, and J. Dongarra, “Threshold Pivoting for Dense LU Factorization,” presented at the 2022 IEEE/ACM 13th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Heterogeneous Systems (ScalAH), Dallas, TX, USA, Nov. 2022
 * [Preprint PDF](https://icl.utk.edu/files/publications/9998/icl-utk-1572-9998.pdf)
 
 **N. Lindquist**, P. Luszczek, and J. Dongarra, “Accelerating Restarted GMRES With Mixed Precision Arithmetic,” in IEEE Transactions on Parallel and Distributed Systems, vol. 33, no. 4, pp. 1027-1037, April 2022, DOI: [10.1109/TPDS.2021.3090757](https://doi.org/10.1109/TPDS.2021.3090757)
@@ -78,6 +87,9 @@ P. Luszczek, Y. Tsai, **N. Lindquist**, H. Anzt, and J. Dongarra, “Scalable Da
 
 
 # Presentations
+
+[Portable C++ for Modern, Heterogenous Mixed-Precision Methods](/files/2023-03-01-SIAM_CSE23-slides.pdf)
+* 2023 SIAM Conference on Computational Science and Engineering
 
 [Modern Mixed-Precision Methods in Portable C++ for Accelerated Hardware Platforms](/files/2022-02-26-SIAM_PP22-slides.pdf)
 * 2022 SIAM Conference on Parallel Processing for Scientific Computing
