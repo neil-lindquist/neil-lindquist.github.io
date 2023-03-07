@@ -10,14 +10,13 @@ meta-description: The current projects in progress of Neil Lindquist
 ##### February 2020 - Present
 Experimenting with the use of various approaches to improve the performance of distributed, GPU-accelerated LU factorizations.
 Such factorizations require partial pivoting for numerical stability; however, this introduces significant overheads to search for and apply such pivots.
-The primary branch of this work to date involves the use of Randomized Butterfly Transforms to shuffle the matrix in such a way that pivoting is unnecessary.
-Other efforts have included optimizing the pivoted and non-pivoted implementations of LU in SLATE, a dense linear algebra library for distributed, heterogenous systems.
-The current work uses the [SLATE](https://icl.utk.edu/slate) dense linear algebra library.
-* [Replacing Pivoting in Distributed Gaussian Elimination with Randomized Techniques](/files/2020-11-12-ScalA20-paper.pdf) - paper at the 11th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems
+This work has primarily focused on the [SLATE](https://icl.utk.edu/slate) dense linear algebra library.
+* [Threshold Pivoting for Dense LU Factorization](https://icl.utk.edu/files/publications/9998/icl-utk-1572-9998.pdf) - paper at the 13th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Heterogeneous Systems
+* [Replacing Pivoting in Distributed Gaussian Elimination with Randomized Techniques](https://www.icl.utk.edu/files/publications/2020/icl-utk-1440-2020.pdf) - paper at the 11th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems
 
 ### Atom for Common Lisp
 ##### April 2019 - Present
-I maintain two packages for developing Lisp (especially Common Lisp) in the Atom text editor.
+I maintain two packages for developing Lisp (especially Common Lisp) in the Atom (now PLASMA) text editor.
 First is SLIMA, which provides interactive Common Lisp development, based on the Emacs plugin SLIME.
 This is a fork of [Steve Levine's Atom-Slime](https://github.com/sjlevine/atom-slime).
 Second is Lisp-Paredit, which provides commands for editing any S-expression based language, originally developed by [Jon Spalding](https://github.com/jonspalding/).

@@ -68,7 +68,7 @@ Eagle Scout (awarded June 2014)
 
 # Publications
 
-**N. Lindquist**, M. Gates, P. Luszczek, and J. Dongarra, “Threshold Pivoting for Dense LU Factorization,” presented at the 2022 IEEE/ACM 13th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Heterogeneous Systems (ScalAH), Dallas, TX, USA, Nov. 2022
+**N. Lindquist**, M. Gates, P. Luszczek, and J. Dongarra, “Threshold Pivoting for Dense LU Factorization,” presented at the 2022 IEEE/ACM 13th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Heterogeneous Systems (ScalAH), Dallas, TX, USA, Nov. 2022, DOI: [10.1109/ScalAH56622.2022.00010](https://doi.org/10.1109/ScalAH56622.2022.00010)
 * [Preprint PDF](https://icl.utk.edu/files/publications/9998/icl-utk-1572-9998.pdf)
 
 **N. Lindquist**, P. Luszczek, and J. Dongarra, “Accelerating Restarted GMRES With Mixed Precision Arithmetic,” in IEEE Transactions on Parallel and Distributed Systems, vol. 33, no. 4, pp. 1027-1037, April 2022, DOI: [10.1109/TPDS.2021.3090757](https://doi.org/10.1109/TPDS.2021.3090757)
