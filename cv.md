@@ -40,7 +40,7 @@ B.A. *magna cum laude* in Math and Computer Science, Saint John's University, 20
 Graduate Research Assistant - University of Tennessee (July 2019 through the present)
  * Developing optimizations and algorithms to address the performance of pivoting in dense, distributed LU factorizations.
    * Primarily focused on [SLATE](http://icl.utk.edu/slate/), a distributed, heterogeneous, dense linear algebra library.
-   * Approaches include randomization, relaxing pivoting criteria, and adjusting MPI calls.
+   * Approaches include randomization, relaxing pivoting criteria, and additive perturbations.
  * Experimented with mixing double and single floating point precision in GMRES, a sparse, iterative linear solver.
  * Contributed to a machine learning based workflow for classification of protein structures from XFEL diffraction patterns.
 
@@ -58,6 +58,8 @@ Research Assistant - Saint John's University (May 2017 through May 2019)
 
 # Honors and Awards
 
+Nominee for the Best Paper Award of ICS'23
+
 Tennessee's Top 100 Fellowship, University of Tennessee (August 2019 - Present)
 
 Pi Mu Epsilon Mathematics Honor Society (inducted May 2019)
@@ -67,6 +69,8 @@ Phi Beta Kappa Honors Society (inducted April 2019)
 Eagle Scout (awarded June 2014)
 
 # Publications
+
+(Accepted) **N. Lindquist**, P. Luszczek, and J. Dongarra, “Using Additive Modifications in LU Factorization Instead of Pivoting,” to be presented at the 2023 ACM International Conference on Supercomputing (ICS), Orlando, FL, USA, June 2023
 
 **N. Lindquist**, M. Gates, P. Luszczek, and J. Dongarra, “Threshold Pivoting for Dense LU Factorization,” presented at the 2022 IEEE/ACM 13th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Heterogeneous Systems (ScalAH), Dallas, TX, USA, Nov. 2022, DOI: [10.1109/ScalAH56622.2022.00010](https://doi.org/10.1109/ScalAH56622.2022.00010)
 * [Preprint PDF](https://icl.utk.edu/files/publications/9998/icl-utk-1572-9998.pdf)
