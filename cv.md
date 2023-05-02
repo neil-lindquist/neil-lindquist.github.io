@@ -26,6 +26,7 @@ High performance computing
 
 Ph.D. candidate in Computer Science, University of Tennessee
 * Advised by Dr. Jack Dongarra
+* Dissertation: Reducing Communication in the Solution of Linear Systems
 
 M.S. in Computer Science, University of Tennessee, 2022
 
