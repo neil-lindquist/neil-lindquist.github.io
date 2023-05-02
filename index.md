@@ -11,4 +11,4 @@ As a member of the [Collegeville](http://github.com/Collegeville) research group
 
 My hobbies include programming, rowing and board games.
 My hobby programming spans a variety of small projects, primarily involving Common Lisp.
-The most notable of these projects is the [SLIMA plugin for Atom](https://atom.io/packages/slima), which enables interactive Common Lisp development in Atom.
+The most notable of these projects is the [SLIMA plugin for Pulsar](https://web.pulsar-edit.dev/packages/slima), which enables interactive Common Lisp development in Pulsar.

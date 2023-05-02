@@ -14,9 +14,9 @@ This work has primarily focused on the [SLATE](https://icl.utk.edu/slate) dense 
 * [Threshold Pivoting for Dense LU Factorization](https://icl.utk.edu/files/publications/9998/icl-utk-1572-9998.pdf) - paper at the 13th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Heterogeneous Systems
 * [Replacing Pivoting in Distributed Gaussian Elimination with Randomized Techniques](https://www.icl.utk.edu/files/publications/2020/icl-utk-1440-2020.pdf) - paper at the 11th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems
 
-### Atom for Common Lisp
+### Pulsar for Common Lisp
 ##### April 2019 - Present
-I maintain two packages for developing Lisp (especially Common Lisp) in the Atom (now PLASMA) text editor.
+I maintain two packages for developing Lisp (especially Common Lisp) in the Atom (now Pulsar) text editor.
 First is SLIMA, which provides interactive Common Lisp development, based on the Emacs plugin SLIME.
 This is a fork of [Steve Levine's Atom-Slime](https://github.com/sjlevine/atom-slime).
 Second is Lisp-Paredit, which provides commands for editing any S-expression based language, originally developed by [Jon Spalding](https://github.com/jonspalding/).
