@@ -59,7 +59,7 @@ Research Assistant - Saint John's University (May 2017 through May 2019)
 
 # Honors and Awards
 
-Nominee for the Best Paper Award of ICS'23
+Nominated for the Best Paper Award of ICS'23
 
 Tennessee's Top 100 Fellowship, University of Tennessee (August 2019 - Present)
 

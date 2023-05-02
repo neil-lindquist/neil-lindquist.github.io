@@ -11,6 +11,8 @@ meta-description: The current projects in progress of Neil Lindquist
 Experimenting with the use of various approaches to improve the performance of distributed, GPU-accelerated LU factorizations.
 Such factorizations require partial pivoting for numerical stability; however, this introduces significant overheads to search for and apply such pivots.
 This work has primarily focused on the [SLATE](https://icl.utk.edu/slate) dense linear algebra library.
+* Using Additive Modifications in LU Factorization Instead of Pivoting - paper at the 2023 ACM International Conference on Supercomputing (ICS)
+  * Nominated for the Best Paper Award of ICS'23
 * [Threshold Pivoting for Dense LU Factorization](https://icl.utk.edu/files/publications/9998/icl-utk-1572-9998.pdf) - paper at the 13th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Heterogeneous Systems
 * [Replacing Pivoting in Distributed Gaussian Elimination with Randomized Techniques](https://www.icl.utk.edu/files/publications/2020/icl-utk-1440-2020.pdf) - paper at the 11th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems
 
