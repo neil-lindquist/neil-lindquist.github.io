@@ -71,7 +71,7 @@ Eagle Scout (awarded June 2014)
 
 # Publications
 
-(Accepted) **N. Lindquist**, P. Luszczek, and J. Dongarra, “Using Additive Modifications in LU Factorization Instead of Pivoting,” to be presented at the 2023 ACM International Conference on Supercomputing (ICS), Orlando, FL, USA, June 2023
+**N. Lindquist**, P. Luszczek, and J. Dongarra, “Using Additive Modifications in LU Factorization Instead of Pivoting,” to be presented at the 2023 ACM International Conference on Supercomputing (ICS), Orlando, FL, USA, June 2023, DOI: [10.1145/3577193.3593731](https://doi.org/10.1145/3577193.3593731)
 
 **N. Lindquist**, M. Gates, P. Luszczek, and J. Dongarra, “Threshold Pivoting for Dense LU Factorization,” presented at the 2022 IEEE/ACM 13th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Heterogeneous Systems (ScalAH), Dallas, TX, USA, Nov. 2022, DOI: [10.1109/ScalAH56622.2022.00010](https://doi.org/10.1109/ScalAH56622.2022.00010)
 * [Preprint PDF](https://icl.utk.edu/files/publications/9998/icl-utk-1572-9998.pdf)
