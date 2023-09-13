@@ -24,7 +24,7 @@ High performance computing
 
 # Education
 
-Ph.D. candidate in Computer Science, University of Tennessee
+Ph.D. in Computer Science, University of Tennessee, 2023
 * Advised by Dr. Jack Dongarra
 * Dissertation: Reducing Communication in the Solution of Linear Systems
 
@@ -38,9 +38,13 @@ B.A. *magna cum laude* in Math and Computer Science, Saint John's University, 20
 
 # Research Experience
 
-Graduate Research Assistant - University of Tennessee (July 2019 through the present)
+Research Associate - University of Tennessee (August 2023 through the present)
+ * Debugging and optimizing [SLATE](http://icl.utk.edu/slate/) (a distributed, heterogeneous, dense linear algebra library) on the Frontier supercomputer.
+ * Polishing LU alternatives from my graduate work for inclusion in SLATE.
+
+Graduate Research Assistant - University of Tennessee (July 2019 through July 2023)
  * Developing optimizations and algorithms to address the performance of pivoting in dense, distributed LU factorizations.
-   * Primarily focused on [SLATE](http://icl.utk.edu/slate/), a distributed, heterogeneous, dense linear algebra library.
+   * Primarily focused on [SLATE](http://icl.utk.edu/slate/).
    * Approaches include randomization, relaxing pivoting criteria, and additive perturbations.
  * Experimented with mixing double and single floating point precision in GMRES, a sparse, iterative linear solver.
  * Contributed to a machine learning based workflow for classification of protein structures from XFEL diffraction patterns.
