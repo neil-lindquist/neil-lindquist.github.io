@@ -26,7 +26,7 @@ High performance computing
 
 Ph.D. in Computer Science, University of Tennessee, 2023
 * Advised by Dr. Jack Dongarra
-* Dissertation: Reducing Communication in the Solution of Linear Systems
+* Dissertation: [Reducing Communication in the Solution of Linear Systems](/files/2023-07-18-Lindquist-Dissertation.pdf)
 
 M.S. in Computer Science, University of Tennessee, 2022
 
