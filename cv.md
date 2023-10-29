@@ -75,7 +75,7 @@ Eagle Scout (awarded June 2014)
 
 # Publications
 
-**N. Lindquist**, P. Luszczek, and J. Dongarra, “Using Additive Modifications in LU Factorization Instead of Pivoting,” presented at the 2023 ACM International Conference on Supercomputing (ICS), Orlando, FL, USA, June 2023, DOI: [10.1145/3577193.3593731](https://dl.acm.org/doi/10.1145/3577193.3593731?cid=99659486680)
+**N. Lindquist**, P. Luszczek, and J. Dongarra, “Using Additive Modifications in LU Factorization Instead of Pivoting,” presented at the 2023 ACM International Conference on Supercomputing (ICS), Orlando, FL, USA, June 2023, DOI: <a href="https://dl.acm.org/doi/10.1145/3577193.3593731?cid=99659486680" referrerpolicy="no-referrer-when-downgrade">10.1145/3577193.3593731</a>
 
 **N. Lindquist**, M. Gates, P. Luszczek, and J. Dongarra, “Threshold Pivoting for Dense LU Factorization,” presented at the 2022 IEEE/ACM 13th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Heterogeneous Systems (ScalAH), Dallas, TX, USA, Nov. 2022, DOI: [10.1109/ScalAH56622.2022.00010](https://doi.org/10.1109/ScalAH56622.2022.00010)
 * [Preprint PDF](https://icl.utk.edu/files/publications/9998/icl-utk-1572-9998.pdf)
@@ -92,7 +92,7 @@ P. Luszczek, Y. Tsai, **N. Lindquist**, H. Anzt, and J. Dongarra, “Scalable Da
 **N. Lindquist**, P. Luszczek, and J. Dongarra, “Improving the Performance of the GMRES Method using Mixed-Precision Techniques,” presented at the 17th Smoky Mountains Computational Sciences and Engineering Conference, SMC 2020, Oak Ridge, TN, USA, Aug. 2020, DOI: [10.1007/978-3-030-63393-6_4](https://doi.org/10.1007/978-3-030-63393-6_4)
 * [Preprint PDF](https://www.icl.utk.edu/files/publications/2020/icl-utk-1419-2020.pdf)
 
-**N. Lindquist**, “Replicated Computational Results (RCR) Report for ‘Code Generation for Generally Mapped Finite Elements,’” ACM Trans. Math. Softw., vol. 45, no. 4, pp. 42:1–42:7, Dec. 2019, DOI: [10.1145/3360984](https://dl.acm.org/doi/10.1145/3360984?cid=99659486680)
+**N. Lindquist**, “Replicated Computational Results (RCR) Report for ‘Code Generation for Generally Mapped Finite Elements,’” ACM Trans. Math. Softw., vol. 45, no. 4, pp. 42:1–42:7, Dec. 2019, DOI: <a href="https://dl.acm.org/doi/10.1145/3360984?cid=99659486680" referrerpolicy="no-referrer-when-downgrade">10.1145/3360984</a>
 
 
 # Presentations
