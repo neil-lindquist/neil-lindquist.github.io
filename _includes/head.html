@@ -91,7 +91,9 @@
 
   {% if page.share-img %}
   <meta property="og:image" content="{{ page.share-img }}" />
-  {% elsif site.avatar %}
+  {% elsif page.image and (layout.show-avatar or page.show-avatar) %}
+  <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{{ page.image }}" />
+  {% elsif site.avatar and (layout.show-avatar or page.show-avatar) %}
   <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{{ site.avatar }}" />
   {% endif %}
 
@@ -118,9 +120,11 @@
   {% endif %}
 
   {% if page.share-img %}
-  <meta name="twitter:image" content="{{ page.share-img }}" />
-  {% elsif site.avatar %}
-  <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}{{ site.avatar }}" />
+  <meta property="twitter:image" content="{{ page.share-img }}" />
+  {% elsif page.image and (layout.show-avatar or page.show-avatar) %}
+  <meta property="twitter:image" content="{{ site.url }}{{ site.baseurl }}{{ page.image }}" />
+  {% elsif site.avatar and (layout.show-avatar or page.show-avatar) %}
+  <meta property="twitter:image" content="{{ site.url }}{{ site.baseurl }}{{ site.avatar }}" />
   {% endif %}
 
   {% if site.matomo %}
