@@ -96,6 +96,9 @@ P. Luszczek, Y. Tsai, **N. Lindquist**, H. Anzt, and J. Dongarra, “Scalable Da
 
 **N. Lindquist**, “Replicated Computational Results (RCR) Report for ‘Code Generation for Generally Mapped Finite Elements,’” ACM Trans. Math. Softw., vol. 45, no. 4, pp. 42:1–42:7, Dec. 2019, DOI: <a href="https://dl.acm.org/doi/10.1145/3360984?cid=99659486680" referrerpolicy="no-referrer-when-downgrade">10.1145/3360984</a>
 
+# Preprints
+
+**N. Lindquist**, P. Luszczek, and J. Dongarra, “Generalizing Random Butterfly Transforms to Arbitrary Matrix Sizes,” December 2023, [arXiv:2312.09376](https://arxiv.org/abs/2312.09376)
 
 # Presentations
 
