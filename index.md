@@ -4,10 +4,9 @@ meta-description: The homepage of Neil Lindquist
 ---
 
 
-I am a computer scientist interested in numerical linear algebra, approximate computing algorithms, and high performance computing.
-I recently earned my Ph.D. at the University of Tennessee in Knoxville under Jack Dongarra.
-During my Ph.D., I worked on several approaches to avoid communication in GMRES and dense LU in order to improve the performance on modern supercomputers.
-
+I am a Developer Technology Engineer at NVIDIA.
+My professional interests include in high performance computing, numerical linear algebra, and approximate computing algorithms.
+I recently earned my Ph.D. at the University of Tennessee in Knoxville under Jack Dongarra, in which I worked on several approaches to avoid communication in GMRES and dense LU in order to improve the performance on modern supercomputers.
 I earned my B.A. degree in  Math and Computer Science at [Saint John's University](https://www.csbsju.edu/) in Minnesota.
 As a member of the [Collegeville](http://github.com/Collegeville) research group, I did research in high performance sparse linear algebra, including exploring the use of mixed precision and testing the Julia programing language in an distributed context.
 

@@ -36,9 +36,11 @@ B.A. *magna cum laude* in Math and Computer Science, Saint John's University, 20
 * Thesis: [Reducing Memory Access Latencies using Data Compression in Sparse, Iterative Linear Solvers](https://github.com/neil-lindquist/Undergrad-Thesis/blob/master/thesis.pdf)
 
 
-# Research Experience
+# Professional Experience
 
-Research Associate - University of Tennessee (August 2023 through the present)
+Developer Technology Engineer - NVIDIA (January 2024 through the present)
+
+Research Associate - University of Tennessee (August 2023 through December 2023)
  * Debugging and optimizing [SLATE](http://icl.utk.edu/slate/) (a distributed, heterogeneous, dense linear algebra library) on the Frontier supercomputer.
  * Polishing LU alternatives from my graduate work for inclusion in SLATE.
 
