@@ -80,8 +80,8 @@ Eagle Scout (awarded June 2014)
 
 # Publications
 
-Mark Gates, Ahmad Abdelfattah, Kadir Akbudak, Mohammed Al Farhan, Rabab Alomairy, Daniel Bielich, Treece Burgess, Sébastien Cayrols, **Neil Lindquist**, Dalal Sukkari, and Asim YarKhan, Evolution of the SLATE linear algebra library,” The International Journal of High Performance COmputing Applications. vol 39, no 1, pp. 3-17, Jan. 2025 DOI: [10.1177/10943420241286531](https://doi.org/10.1177/10943420241286531)
-t
+M. Gates et al., “Evolution of the SLATE linear algebra library,” The Intl. J. of High Performance Computing Applications. vol 39, no 1, pp. 3-17, Jan. 2025 DOI: [10.1177/10943420241286531](https://doi.org/10.1177/10943420241286531)
+
 **N. Lindquist**, P. Luszczek, and J. Dongarra, “Generalizing Random Butterfly Transforms to Arbitrary Matrix Sizes,” ACM Trans. Math. Softw. vol. 50, no 4, pp. 26:1-26:23, Dec. 2024 DOI: <a href="https://dl.acm.org/doi/10.1145/3699714?cid=99659486680" referrerpolicy="no-referrer-when-downgrade">10.1145/3699714</a>
 
 **N. Lindquist**, P. Luszczek, and J. Dongarra, “Using Additive Modifications in LU Factorization Instead of Pivoting,” presented at the 2023 ACM International Conference on Supercomputing (ICS), Orlando, FL, USA, June 2023, DOI: <a href="https://dl.acm.org/doi/10.1145/3577193.3593731?cid=99659486680" referrerpolicy="no-referrer-when-downgrade">10.1145/3577193.3593731</a>
