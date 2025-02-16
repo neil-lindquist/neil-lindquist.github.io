@@ -130,8 +130,8 @@ P. Luszczek, Y. Tsai, **N. Lindquist**, H. Anzt, and J. Dongarra, “Scalable Da
 [Obtaining Performance from a Julia-Implementation of Trilinos Data Librairies](https://www.pathlms.com/siam/courses/10878/sections/14368/video_presentations/127457)
  * 2019 SIAM Conference on Computational Science and Engineering
 
-# Teaching Experience
+# Teaching and Mentorship Experience
 
-Graduate Teaching Assistant - Scientific Computing For Engineers (Spring 2021)
+Hackathon mentor (June 2024, Sep. 2024, Feb. 2025)
 
-Graduate Teaching Assistant - Scientific Computing For Engineers (Spring 2020)
+Graduate Teaching Assistant - Scientific Computing For Engineers (Spring 2020, Spring 2021)
