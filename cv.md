@@ -39,13 +39,16 @@ B.A. *magna cum laude* in Math and Computer Science, Saint John's University, 20
 # Professional Experience
 
 Developer Technology Engineer - NVIDIA (January 2024 through the present)
+* Implementing and optimizing functionality in math libraries including cuSolverDx, cuSolver, and cuPQC.
+* Providing guidance in linear algebra and GPU performance optimization to customers and internal teams.
+* Benchmarking and optimizing customer codes, including for supercomputer RFPs.
 
 Research Associate - University of Tennessee (August 2023 through December 2023)
- * Debugging and optimizing [SLATE](http://icl.utk.edu/slate/) (a distributed, heterogeneous, dense linear algebra library) on the Frontier supercomputer.
- * Polishing LU alternatives from my graduate work for inclusion in SLATE.
+ * Debugged and optimized [SLATE](http://icl.utk.edu/slate/) (a distributed, heterogeneous, dense linear algebra library) on the Frontier supercomputer.
+ * Polished LU alternatives from my graduate work for inclusion in SLATE.
 
 Graduate Research Assistant - University of Tennessee (July 2019 through July 2023)
- * Developing optimizations and algorithms to address the performance of pivoting in dense, distributed LU factorizations.
+ * Developed optimizations and algorithms to address the performance of pivoting in dense, distributed LU factorizations.
    * Primarily focused on [SLATE](http://icl.utk.edu/slate/).
    * Approaches include randomization, relaxing pivoting criteria, and additive perturbations.
  * Experimented with mixing double and single floating point precision in GMRES, a sparse, iterative linear solver.
@@ -67,7 +70,7 @@ Research Assistant - Saint John's University (May 2017 through May 2019)
 
 Nominated for the Best Paper Award of ICS'23
 
-Tennessee's Top 100 Fellowship, University of Tennessee (August 2019 - Present)
+Tennessee's Top 100 Fellowship, University of Tennessee (August 2019 - July 2024)
 
 Pi Mu Epsilon Mathematics Honor Society (inducted May 2019)
 
