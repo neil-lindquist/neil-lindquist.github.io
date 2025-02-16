@@ -80,6 +80,10 @@ Eagle Scout (awarded June 2014)
 
 # Publications
 
+Mark Gates, Ahmad Abdelfattah, Kadir Akbudak, Mohammed Al Farhan, Rabab Alomairy, Daniel Bielich, Treece Burgess, Sébastien Cayrols, **Neil Lindquist**, Dalal Sukkari, and Asim YarKhan, Evolution of the SLATE linear algebra library,” The International Journal of High Performance COmputing Applications. vol 39, no 1, pp. 3-17, Jan. 2025 DOI: [10.1177/10943420241286531](https://doi.org/10.1177/10943420241286531)
+t
+**N. Lindquist**, P. Luszczek, and J. Dongarra, “Generalizing Random Butterfly Transforms to Arbitrary Matrix Sizes,” ACM Trans. Math. Softw. vol. 50, no 4, pp. 26:1-26:23, Dec. 2024 DOI: <a href="https://dl.acm.org/doi/10.1145/3699714?cid=99659486680" referrerpolicy="no-referrer-when-downgrade">10.1145/3699714</a>
+
 **N. Lindquist**, P. Luszczek, and J. Dongarra, “Using Additive Modifications in LU Factorization Instead of Pivoting,” presented at the 2023 ACM International Conference on Supercomputing (ICS), Orlando, FL, USA, June 2023, DOI: <a href="https://dl.acm.org/doi/10.1145/3577193.3593731?cid=99659486680" referrerpolicy="no-referrer-when-downgrade">10.1145/3577193.3593731</a>
 
 **N. Lindquist**, M. Gates, P. Luszczek, and J. Dongarra, “Threshold Pivoting for Dense LU Factorization,” presented at the 2022 IEEE/ACM 13th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Heterogeneous Systems (ScalAH), Dallas, TX, USA, Nov. 2022, DOI: [10.1109/ScalAH56622.2022.00010](https://doi.org/10.1109/ScalAH56622.2022.00010)
@@ -98,10 +102,6 @@ P. Luszczek, Y. Tsai, **N. Lindquist**, H. Anzt, and J. Dongarra, “Scalable Da
 * [Preprint PDF](https://www.icl.utk.edu/files/publications/2020/icl-utk-1419-2020.pdf)
 
 **N. Lindquist**, “Replicated Computational Results (RCR) Report for ‘Code Generation for Generally Mapped Finite Elements,’” ACM Trans. Math. Softw., vol. 45, no. 4, pp. 42:1–42:7, Dec. 2019, DOI: <a href="https://dl.acm.org/doi/10.1145/3360984?cid=99659486680" referrerpolicy="no-referrer-when-downgrade">10.1145/3360984</a>
-
-# Preprints
-
-**N. Lindquist**, P. Luszczek, and J. Dongarra, “Generalizing Random Butterfly Transforms to Arbitrary Matrix Sizes,” December 2023, [arXiv:2312.09376](https://arxiv.org/abs/2312.09376)
 
 # Presentations
 
