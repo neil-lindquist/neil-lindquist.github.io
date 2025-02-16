@@ -38,30 +38,30 @@ B.A. *magna cum laude* in Math and Computer Science, Saint John's University, 20
 
 # Professional Experience
 
-Developer Technology Engineer - NVIDIA (January 2024 through the present)
+Developer Technology Engineer - NVIDIA (January 2024 - Present)
 * Implementing and optimizing functionality in math libraries including cuSolverDx, cuSolver, and cuPQC.
 * Providing guidance in linear algebra and GPU performance optimization to customers and internal teams.
 * Benchmarking and optimizing customer codes, including for supercomputer RFPs.
 
-Research Associate - University of Tennessee (August 2023 through December 2023)
+Research Associate - University of Tennessee (August 2023 - December 2023)
  * Debugged and optimized [SLATE](http://icl.utk.edu/slate/) (a distributed, heterogeneous, dense linear algebra library) on the Frontier supercomputer.
  * Polished LU alternatives from my graduate work for inclusion in SLATE.
 
-Graduate Research Assistant - University of Tennessee (July 2019 through July 2023)
+Graduate Research Assistant - University of Tennessee (July 2019 - July 2023)
  * Developed optimizations and algorithms to address the performance of pivoting in dense, distributed LU factorizations.
    * Primarily focused on [SLATE](http://icl.utk.edu/slate/).
    * Approaches include randomization, relaxing pivoting criteria, and additive perturbations.
  * Experimented with mixing double and single floating point precision in GMRES, a sparse, iterative linear solver.
  * Contributed to a machine learning based workflow for classification of protein structures from XFEL diffraction patterns.
 
-Intern - MathWorks (May 2022 through August 2022)
+Intern - MathWorks (May 2022 - August 2022)
  * Contributed to the development and optimization of MATLAB linear algebra routines, including sparse-matrix-multiplication, least-squares, and eigenvalue problems.
 
-Givens Associate - Argonne National Laboratory (May 2021 through August 2021)
+Givens Associate - Argonne National Laboratory (May 2021 - August 2021)
  * Ported interpolation routines to GPU accelerators using the [OCCA](https://libocca.org) runtime in [NekRS](https://github.com/Nek5000/nekRS), a spectral-element based fluid dynamics code.
  * Implemented particle-tracking and overlapping simulation domains functionalities in NekRS using the new interpolation routines.
 
-Research Assistant - Saint John's University (May 2017 through May 2019)
+Research Assistant - Saint John's University (May 2017 - May 2019)
  * Explored using data compression in Conjugate Gradient on distributed CPU clusters.
  * Investigated using the Julia language for distributed-memory sparse linear algebra.
 
