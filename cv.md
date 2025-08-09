@@ -105,6 +105,9 @@ P. Luszczek, et al., “Scalable Data Generation for Evaluating Mixed-Precision 
 
 # Presentations
 
+cuSolverDx: an Evolution of Batched Solvers
+* 2025 State-of-the-Art GPU Numerical Computing Computing Workshop
+
 [Portable C++ for Modern, Heterogenous Mixed-Precision Methods](/files/2023-03-01-SIAM_CSE23-slides.pdf)
 * 2023 SIAM Conference on Computational Science and Engineering
 
