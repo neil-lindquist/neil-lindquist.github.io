@@ -103,6 +103,10 @@ P. Luszczek, et al., “Scalable Data Generation for Evaluating Mixed-Precision 
 
 **N. Lindquist**, “Replicated Computational Results (RCR) Report for ‘Code Generation for Generally Mapped Finite Elements,’” ACM Trans. Math. Softw., vol. 45, no. 4, pp. 42:1–42:7, Dec. 2019, DOI: <a href="https://dl.acm.org/doi/10.1145/3360984?cid=99659486680" referrerpolicy="no-referrer-when-downgrade">10.1145/3360984</a>
 
+# Manuscripts under Review
+**N. Lindquist**, P. Luszczek, J. Dongarra, “The Stability of Block Eliminations and Additive Modifications”
+* [Preprint PDF](https://arxiv.org/pdf/2509.07305)
+
 # Presentations
 
 cuSolverDx: an Evolution of Batched Solvers
