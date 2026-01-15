@@ -18,6 +18,8 @@
                   <i class="fa fa-circle fa-stack-2x"></i>
                   {%- if curkey == 'orcid' -%}
                     <i class="ai {{ element.icon }} fa-stack-1x fa-inverse"></i>
+                  {%- elsif curkey == 'google-scholar' -%}
+                    <i class="fa-brands {{ element.icon }} fa-stack-1x fa-inverse"></i>
                   {%- else -%}
                     <i class="fa {{ element.icon }} fa-stack-1x fa-inverse"></i>
                   {%- endif -%}
