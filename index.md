@@ -9,5 +9,3 @@ My professional interests include in high performance computing, numerical linea
 I am currently involved in several projects, including the [cuSolverDx library](https://docs.nvidia.com/cuda/cusolverdx/) which provides linear algebra solvers for CUDA kernels.
 Previously, I was at the University of Tennessee in Knoxville, where I earned by Ph.D. under Jack Dongarra.
 My graduate work was largely focused on developing new techniques to avoid communication in dense LU and GMRES in order to improve the performance on modern supercomputers.
-I earned my B.A. degree in  Math and Computer Science at Saint John's University in Minnesota.
-As a member of the [Collegeville research group](http://github.com/Collegeville), I did research in high performance sparse linear algebra, including exploring the use of mixed precision and testing the Julia programing language in an distributed context.
