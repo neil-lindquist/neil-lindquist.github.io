@@ -26,6 +26,10 @@ github:
   baseURL: "https://github.com/"
   icon: "fa-github"
 
+google-scholar:
+  name: "Google Scholar"
+  baseURL: "https://scholar.google.com/citations?user="
+
 twitter:
   name: "Twitter"
   baseURL: "https://twitter.com/"
