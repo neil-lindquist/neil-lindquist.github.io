@@ -29,7 +29,7 @@ github:
 google-scholar:
   name: "Google Scholar"
   baseURL: "https://scholar.google.com/citations?user="
-  icon: "fa-google-scholar"
+  icon: "ai-google-scholar"
 
 twitter:
   name: "Twitter"

@@ -16,7 +16,7 @@
             {%- endif -%}
                 <span class="fa-stack fa-lg hidden-print" aria-hidden="true">
                   <i class="fa fa-circle fa-stack-2x"></i>
-                  {%- if curkey == 'orcid' -%}
+                  {%- if curkey == 'orcid' or curkey == 'google-scholar' -%}
                     <i class="ai {{ element.icon }} fa-stack-1x fa-inverse"></i>
                   {%- else -%}
                     <i class="fa {{ element.icon }} fa-stack-1x fa-inverse"></i>
