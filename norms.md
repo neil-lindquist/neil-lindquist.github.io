@@ -11,7 +11,7 @@ Because non-submultiplicative norms have played an important part in numerical l
 
 While most properties are only concerned with a single matrix dimension, a few involve multiple matrices.
 Technically speaking, a norm is only defined for a single dimension and two norms for different dimensions are different norms; however, it is often easier to think of a single "norm" that applies to different dimensions.
-So, in cases where it is relevant, I instead consider dimension-invariant families of norms [\[LLD25\]](#cite-lld25), i.e., a set of matrix norms such that for any matrix $`A`$ and any block partitioning thereof, $`\mathcal{I}\times\mathcal{J}`$, the norms of appropriate size satisfy
+So, in cases where it is relevant, I instead consider dimension-invariant families of norms [\[LLD25\]](#cite-lld25), i.e., a set of matrix norms such that for any matrix $`A`$ and any block partitioning thereof, \(\mathcal{I}\times\mathcal{J}\), the norms of appropriate size satisfy
 
 $$
 \max_{\substack{i\in \mathcal{I}\\j\in\mathcal{J}}} \|A_{i,j}\| \leq \|A\| \leq \sum_{\substack{i\in\mathcal{I}\\j\in\mathcal{J}}} \|A_{i,j}\|.
