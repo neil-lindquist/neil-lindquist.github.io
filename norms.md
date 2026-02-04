@@ -66,10 +66,10 @@ Note that some have multiple equivalent definitions
 
 The following table describes which matrices have the following properties
 
-* Absolute: $|||A||| = ||A||$ for any matrix $A$
-* Submultiplicative: $||AB|| \leq ||A||||B||$ for any conformal matrices $A, B$
-* Unitary Invariant: $||UAV|| = ||A||$ for any matrix $A$ and conformal, square unitary matrices $U, V$
-* Conjugate-Transpose Invariant: $||A*|| = ||A||$ for any matrix $A$
+* Absolute: $\|\|\|A\|\|\| = \|\|A\|\|$ for any matrix $A$
+* Submultiplicative: $\|\|AB\|\| \leq \|\|A\|\|\\,\|\|B\|\|$ for any conformal matrices $A, B$
+* Unitary Invariant: $\|\|UAV\|\| = \|\|A\|\|$ for any matrix $A$ and conformal, square unitary matrices $U, V$
+* Conjugate-Transpose Invariant: $\|\|A^H\|\| = \|\|A\|\|$ for any matrix $A$
 
 
 | Norm                                                  | Absolute | Submultiplicative | Unitary Invariant | Conjugate-Transpose Invariant |
@@ -88,7 +88,7 @@ The following table describes which matrices have the following properties
 | Schatten $\infty$ norm (Spectral norm)              | No       | Yes               | Yes               | Yes                           |
 | Ky Fan $k$ norm                                     | No       | Yes               | Yes               | Yes                           |
 
-\* While the Spectral norm is the only $L^p$ induced norm that is invariant to conjugate-transposition, \(L^p\) induced norms do satisfy $||A^H||_p = ||A||_q$ for $1/p + 1/q = 1$ [\[Hig02, (6.21)\]](#cite-hig02).
+\* While the Spectral norm is the only $L^p$ induced norm that is invariant to conjugate-transposition, \(L^p\) induced norms do satisfy $\|\|A^H\|\|_p = \|\|A\|\|_q$ for $1/p + 1/q = 1$ [\[Hig02, (6.21)\]](#cite-hig02).
 
 Note that technically a norm is defined for a single size, so defining submultiplicativity for rectangular matrices is a property of a set of conformal norms.  However, the norms defined here are parameterized on matrix size and behave nicely when moving between sizes.
 
@@ -109,7 +109,7 @@ $$
 $$
 
 
-The following table provides the $\alpha$ such that $||A||_r \leq \alpha ||A||_c$ where $||\cdot||_r$ is the norm for the row and $||\cdot||_c$ is the norm for the column.
+The following table provides the $\alpha$ such that $\|\|A\|\|_r \leq \alpha \|\|A\|\|_c$ where $\|\|\cdot\|\|_r$ is the norm for the row and $\|\|\cdot\|\|_c$ is the norm for the column.
 
 | Norm                                     | elementwise $q$ norm | elementwise $\infty$ norm (max norm) | $L^q$ induced norm | Schatten $q$ norm | Ky Fan $l$ norm |
 |------------------------------------------|------------------------|----------------------------------------|----------------------|---------------------|-------------------|
@@ -142,7 +142,7 @@ $$
 
 where $1/p + 1/q = 1$.
 For the elementwise version and Schatten version, the result follows from using Hölder's inequality with the vector $L^p$ norm of either the elements or singular values, respectively.
-Finally, the result for the $L^p$ induced norms follows from the Riesz-Thorin theorem and the fact that $\log(||A||_p)$ is a convex function of $1/p$ [\[Hig02, (6.18)\]](#cite-hig02).
+Finally, the result for the $L^p$ induced norms follows from the Riesz-Thorin theorem and the fact that $\log(\|\|A\|\|_p)$ is a convex function of $1/p$ [\[Hig02, (6.18)\]](#cite-hig02).
 
 ### Select Justifications
 
@@ -161,12 +161,12 @@ $$
 ||A||_p = \max_{x\neq 0} \frac{||Ax||_p}{||x||_p} \leq n^{1/q - 1/p}\max_{x\neq 0} \frac{||Ax||_q}{||x||_q} = n^{1/q - 1/p}||A||_q
 $$
 
-So, we have $||A||_p \leq \begin{cases}m^{1/p - 1/q} & p \leq q\\\\n^{1/q - 1/p}& p > q\end{cases}||A||_q$
+So, we have $\|\|A\|\|_p \leq \begin{cases}m^{1/p - 1/q} & p \leq q\\\\n^{1/q - 1/p}& p > q\end{cases}\|\|A\|\|_q$
 
 
 ### Speculation and Comments
 
-For an $L^p$ induced norm, $||\cdot||_p$ and the max norm $||\cdot||_{\max}$, the pattern suggests that $||A||_p \leq (m^{1/p}n^{1-1/p})||A||_{\max}$.
+For an $L^p$ induced norm, $\|\|\cdot\|\|_p$ and the max norm $\|\|\cdot\|\|_{\max}$, the pattern suggests that $\|\|A\|\|_p \leq (m^{1/p}n^{1-1/p})\|\|A\|\|_{\max}$.
 
 ## References
 
