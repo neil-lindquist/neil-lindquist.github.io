@@ -9,22 +9,6 @@ I find myself looking up properties of specific matrix norms on the Wikipedia wa
 Note that some authors limit the term matrix norm to only those norms that are also submultiplicative.
 Because non-submultiplicative norms have played an important part in numerical linear algebra (particularly the max-norm), I make no such restriction here.
 
-While most properties are only concerned with a single matrix dimension, a few involve multiple matrices.
-Technically speaking, a norm is only defined for a single dimension and two norms for different dimensions are different norms; however, it is often easier to think of a single "norm" that applies to different dimensions.
-So, in cases where it is relevant, I instead consider dimension-invariant families of norms [\[LLD25\]](#cite-lld25), i.e., a set of matrix norms such that for any matrix $`A`$ and any block partitioning thereof, \(\mathcal{I}\times\mathcal{J}\), the norms of appropriate size satisfy
-
-$$
-\max_{\substack{i\in \mathcal{I}\\j\in\mathcal{J}}} \|A_{i,j}\| \leq \|A\| \leq \sum_{\substack{i\in\mathcal{I}\\j\in\mathcal{J}}} \|A_{i,j}\|.
-$$
-
-This is satisfied by the usual norm definitions and provides several intuitive properties such as
-* Padding a matrix with zero rows or columns doesn't affect it's norm.
-* A matrix with a single nonzero value equal to $`\alpha`$ has a norm equal to $`\|[\alpha]\|`$.
-
-Notably, this definition implies permutation invariance and so excludes some niche matrix norms, such as operator norms that are induced by some vector energy norms.
-Additionally, it excludes scaling based on the dimensions, such as when the max norm is scaled to become submultiplicative.
-
-
 
 ## Definitions of Common Norms
 
@@ -33,7 +17,7 @@ While there are infinitely many ways to define a matrix norm, there's only a sma
 ### Elementwise Norms
 
 The simplest matrix norm to define are the elementwise norms.
-Specifically, for $`1 \leq p < \infty`$ the elementwise $`p`$-norm is defined for $`A\in\mathbb{C}^{m\times n}`$ as
+Specifically, for $1 \leq p < \infty$ the elementwise $p$-norm is defined for $A\in\mathbb{C}^{m\times n}$ as
 
 $$
 \|A\| = \left( \sum_{i=0}^{m}\sum_{j=0}^{n} A[i, j]^p \right)^{1/p}
