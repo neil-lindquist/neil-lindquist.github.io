@@ -20,13 +20,13 @@ The simplest matrix norm to define are the elementwise norms.
 Specifically, for $1 \leq p < \infty$ the elementwise $p$-norm is defined for $A\in\mathbb{C}^{m\times n}$ as
 
 $$
-\|A\| = \left( \sum_{i=0}^{m}\sum_{j=0}^{n} A[i, j]^p \right)^{1/p}
+||A|| = \left( \sum_{i=0}^{m}\sum_{j=0}^{n} A[i, j]^p \right)^{1/p}
 $$
 
 Furthermore, taking the limit as $p$ goes to infinity gives the elementwise $\infty$-norm:
 
 $$
-\|A\|_\infty = \max_{i,j}(|A[i, j]|)
+||A||_\infty = \max_{i,j}(|A[i, j]|)
 $$
 
 These definitions are equivalent to treating an $m\times n$ matrix as a vector of length $mn$ and applying the corresponding vector $L^p$ norm.
@@ -66,10 +66,10 @@ Note that some have multiple equivalent definitions
 
 The following table describes which matrices have the following properties
 
-* Absolute: $\||A|\| = \|A\|$ for any matrix $A$
-* Submultiplicative: $\|AB\| \leq \|A\|\|B\|$ for any conformal matrices $A, B$
-* Unitary Invariant: $\|UAV\| = \|A\|$ for any matrix $A$ and conformal, square unitary matrices $U, V$
-* Conjugate-Transpose Invariant: $\|A*\| = \|A\|$ for any matrix $A$
+* Absolute: $|||A||| = ||A||$ for any matrix $A$
+* Submultiplicative: $||AB|| \leq ||A||||B||$ for any conformal matrices $A, B$
+* Unitary Invariant: $||UAV|| = ||A||$ for any matrix $A$ and conformal, square unitary matrices $U, V$
+* Conjugate-Transpose Invariant: $||A*|| = ||A||$ for any matrix $A$
 
 
 | Norm                                                  | Absolute | Submultiplicative | Unitary Invariant | Conjugate-Transpose Invariant |
@@ -88,7 +88,7 @@ The following table describes which matrices have the following properties
 | Schatten $\infty$ norm (Spectral norm)              | No       | Yes               | Yes               | Yes                           |
 | Ky Fan $k$ norm                                     | No       | Yes               | Yes               | Yes                           |
 
-\* While the Spectral norm is the only $L^p$ induced norm that is invariant to conjugate-transposition, \(L^p\) induced norms do satisfy $\|A^H\|_p = \|A\|_q$ for $1/p + 1/q = 1$ [\[Hig02, (6.21)\]](#cite-hig02).
+\* While the Spectral norm is the only $L^p$ induced norm that is invariant to conjugate-transposition, \(L^p\) induced norms do satisfy $||A^H||_p = ||A||_q$ for $1/p + 1/q = 1$ [\[Hig02, (6.21)\]](#cite-hig02).
 
 Note that technically a norm is defined for a single size, so defining submultiplicativity for rectangular matrices is a property of a set of conformal norms.  However, the norms defined here are parameterized on matrix size and behave nicely when moving between sizes.
 
@@ -113,20 +113,20 @@ The following table provides the $\alpha$ such that $||A||_r \leq \alpha ||A||_c
 
 | Norm                                     | elementwise $q$ norm | elementwise $\infty$ norm (max norm) | $L^q$ induced norm | Schatten $q$ norm | Ky Fan $l$ norm |
 |------------------------------------------|------------------------|----------------------------------------|----------------------|---------------------|-------------------|
-| elementwise $p$ norm                   | $\begin{cases}(mn)^{1/p - 1/q} & p < q\\1& p \geq q\end{cases}$ | $(mn)^{1/p}$ |   |                     |                   |
+| elementwise $p$ norm                   | $\begin{cases}(mn)^{1/p - 1/q} & p < q\\\\1& p \geq q\end{cases}$ | $(mn)^{1/p}$ |   |                     |                   |
 | elementwise 1 norm (sum norm)            |   $(mn)^{1 - 1/q}$   |              $mn$                    |                      |                     |                   |
-| elementwise 2 norm (Frobenius norm)      | $\begin{cases}(mn)^{1/2 - 1/q} & 2 < q\\1& 1/2 \geq q\end{cases}$ | $\sqrt{mn}$ | | $\begin{cases}\min(m,n)^{(1/2 - 1/q)} & 2 < q\\1& 2 \geq q\end{cases}$ | $\min(\min(m,n)^{1/2},\min(m,n)/l)$\* |
+| elementwise 2 norm (Frobenius norm)      | $\begin{cases}(mn)^{1/2 - 1/q} & 2 < q\\\\1& 1/2 \geq q\end{cases}$ | $\sqrt{mn}$ | | $\begin{cases}\min(m,n)^{(1/2 - 1/q)} & 2 < q\\1& 2 \geq q\end{cases}$ | $\min(\min(m,n)^{1/2},\min(m,n)/l)$\* |
 | elementwise $\infty$ norm (max norm)   |           $1$        |             $1$                      |         $1$        |          $1$      |       $1$       |
-| $L^p$ induced norm                     |                        |   | $\begin{cases}m^{1/p - 1/q} & p \leq q\\n^{1/q - 1/p}& p > q\end{cases}$ |    |                   |
+| $L^p$ induced norm                     |                        |   | $\begin{cases}m^{1/p - 1/q} & p \leq q\\\\n^{1/q - 1/p}& p > q\end{cases}$ |    |                   |
 | $L^1$ induced norm                     |                        |              $m$                     |   $m^{1 - 1/q}$    |                     |                   |
-| $L^2$ induced norm (Spectral norm)     |                     | $\sqrt{mn}$ | $\begin{cases}m^{1/2 - 1/q} & 2 \leq q\\n^{1/q - 1/2}& 2 > q\end{cases}$ | $1$ | $1$ |
+| $L^2$ induced norm (Spectral norm)     |                     | $\sqrt{mn}$ | $\begin{cases}m^{1/2 - 1/q} & 2 \leq q\\\\n^{1/q - 1/2}& 2 > q\end{cases}$ | $1$ | $1$ |
 | $L^\infty$ induced norm                |                        |              $n$                     |      $n^{1/q}$     |                     |                   |
-| Schatten $p$ norm                      |           | | | $\begin{cases}\min(m,n)^{1/p - 1/q} & p < q\\1& p \geq q\end{cases}$ | $\min(\min(m,n)^{1/p},\min(m,n)/l)$\* |
+| Schatten $p$ norm                      |           | | | $\begin{cases}\min(m,n)^{1/p - 1/q} & p < q\\\\1& p \geq q\end{cases}$ | $\min(\min(m,n)^{1/p},\min(m,n)/l)$\* |
 | Schatten 1 norm (Nuclear norm)           |                        |                                        |                   | $\min(m,n)^{1 - 1/q} $ | $\min(m,n)/l$ |
-| Schatten 2 norm (Frobenius norm)         | $\begin{cases}(mn)^{1/2 - 1/q} & 2 < q\\1& 1/2 \geq q\end{cases}$ | $\sqrt{mn}$ | | $\begin{cases}\min(m,n)^{(1/2 - 1/q)} & 2 < q\\1& 2 \geq q\end{cases}$ | $\min(\min(m,n)^{1/2},\min(m,n)/l)$\* |
-| Schatten $\infty$ norm (Spectral norm) |                     | $\sqrt{mn}$ | $\begin{cases}m^{1/2 - 1/q} & 2 \leq q\\n^{1/q - 1/2}& 2 > q\end{cases}$ | $1$ | $1$ |
+| Schatten 2 norm (Frobenius norm)         | $\begin{cases}(mn)^{1/2 - 1/q} & 2 < q\\\\1& 1/2 \geq q\end{cases}$ | $\sqrt{mn}$ | | $\begin{cases}\min(m,n)^{(1/2 - 1/q)} & 2 < q\\\\1& 2 \geq q\end{cases}$ | $\min(\min(m,n)^{1/2},\min(m,n)/l)$\* |
+| Schatten $\infty$ norm (Spectral norm) |                     | $\sqrt{mn}$ | $\begin{cases}m^{1/2 - 1/q} & 2 \leq q\\\\n^{1/q - 1/2}& 2 > q\end{cases}$ | $1$ | $1$ |
 | Ky Fan $k$ norm                        |                        |                                        |           | $\min(\min{m,n}^{1-1/q},k)$\* | $\max(1, k/l)$ |
-| Ky Fan $1$ norm (Spectral norm)        |                     | $\sqrt{mn}$ | $\begin{cases}m^{1/2 - 1/q} & 2 \leq q\\n^{1/q - 1/2}& 2 > q\end{cases}$ | $1$ | $1$ |
+| Ky Fan $1$ norm (Spectral norm)        |                     | $\sqrt{mn}$ | $\begin{cases}m^{1/2 - 1/q} & 2 \leq q\\\\n^{1/q - 1/2}& 2 > q\end{cases}$ | $1$ | $1$ |
 | Ky Fan $\min(m,n)$ norm (Nuclear norm) |                        |                                        |                   | $\min(m,n)^{1 - 1/q} $ | $\min(m,n)/l$ |
 
 \* I'm unsure if this bound is tight.
@@ -137,12 +137,12 @@ Finally, there are some irregular inequalities between norms.
 For the elementwise, $L^p$ induced, and Schatten norms, we have that
 
 $$
-\|A\|_2 \leq \sqrt{\|A\|_p \|A\|_q}
+||A||_2 \leq \sqrt{||A||_p ||A||_q}
 $$
 
 where $1/p + 1/q = 1$.
 For the elementwise version and Schatten version, the result follows from using Hölder's inequality with the vector $L^p$ norm of either the elements or singular values, respectively.
-Finally, the result for the $L^p$ induced norms follows from the Riesz-Thorin theorem and the fact that $\log(\|A\|_p)$ is a convex function of $1/p$ [\[Hig02, (6.18)\]](#cite-hig02).
+Finally, the result for the $L^p$ induced norms follows from the Riesz-Thorin theorem and the fact that $\log(||A||_p)$ is a convex function of $1/p$ [\[Hig02, (6.18)\]](#cite-hig02).
 
 ### Select Justifications
 
@@ -152,16 +152,16 @@ This gives 2 different bounds for each direction, so we can take the minimum.
 For the $L^p$ and $L^q$ induced norms, note that $p\leq q$ implies
 
 $$
-\|A\|_p = \max_{x\neq 0} \frac{\|Ax\|_p}{\|x\|_p} \leq m^{1/p - 1/q}\max_{x\neq 0} \frac{\|Ax\|_q}{\|x\|_q} = m^{1/p - 1/q}\|A\|_q
+||A||_p = \max_{x\neq 0} \frac{||Ax||_p}{||x||_p} \leq m^{1/p - 1/q}\max_{x\neq 0} \frac{||Ax||_q}{||x||_q} = m^{1/p - 1/q}||A||_q
 $$
 
 and $p \geq q$ implies
 
 $$
-\|A\|_p = \max_{x\neq 0} \frac{\|Ax\|_p}{\|x\|_p} \leq n^{1/q - 1/p}\max_{x\neq 0} \frac{\|Ax\|_q}{\|x\|_q} = n^{1/q - 1/p}\|A\|_q
+||A||_p = \max_{x\neq 0} \frac{||Ax||_p}{||x||_p} \leq n^{1/q - 1/p}\max_{x\neq 0} \frac{||Ax||_q}{||x||_q} = n^{1/q - 1/p}||A||_q
 $$
 
-So, we have $\|A\|_p \leq \begin{cases}m^{1/p - 1/q} & p \leq q\\n^{1/q - 1/p}& p > q\end{cases}\|A\|_q$
+So, we have $||A||_p \leq \begin{cases}m^{1/p - 1/q} & p \leq q\\\\n^{1/q - 1/p}& p > q\end{cases}||A||_q$
 
 
 ### Speculation and Comments
